@@ -1,0 +1,495 @@
+STRING_RESTART = Restart
+
+STRING_LEARN_MORE = Pelajari lebih lanjut
+
+STRING_APP_CRASH = Aplikasi crash
+
+STRING_64BIT = 64-bit
+
+STRING_WARNING = Peringatan
+
+STRING_PIE = Pie
+
+STRING_FOLDER = Folder
+
+STRING_CANNOT_INSTALL_0 = Tidak dapat memasang @@STRING_PRODUCT_NAME@@ {0}
+
+STRING_RESTART_PC = Restart PC
+
+STRING_STATUS_COLLECTING_GUEST = Mengumpulkan informasi Android
+
+STRING_DOWNLOADING = Mendownload
+
+STRING_CANT_USE_THIS_FOLDER = Sayangnya, folder yang dipilih tidak dapat digunakan untuk menginstal @@STRING_PRODUCT_NAME@@
+
+STRING_ERROR_SENDING_REPORT = Error saat mengirim laporan
+
+STRING_SPACE_REQUIRED = Ruang yang dibutuhkan
+
+STRING_HYPERV_DISABLED_MESSAGE = @@STRING_PRODUCT_NAME@@ tidak dapat dimulai saat Hyper-V dinonaktifkan. Anda harus mengaktifkan Microsoft Hyper-V dari Panel Kontrol Windows dan coba lagi. Lihat FAQ ini untuk langkah-langkah tentang cara mengaktifkannya.
+
+STRING_COULDNT_RESTORE_UNUSABLE = @@STRING_PRODUCT_NAME@@ tidak dapat dikembalikan ke keadaan semula dan mungkin tidak dapat digunakan.
+
+STRING_CHOOSE_AGAIN = Pilih lagi
+
+STRING_RETRY = Coba lagi
+
+STRING_DISABLED_VT = @@STRING_PRODUCT_NAME@@ memerlukan virtualisasi berbantuan perangkat keras agar diaktifkan pada PC Anda untuk kinerja yang optimal. Lihat FAQ ini untuk petunjuk tentang cara mengaktifkannya.
+
+STRING_MINIMIZE_INSTALLER = Minimalkan penginstal?
+
+STRING_PC_HAS_LESS_MEMORY = PC kamu memiliki memori kurang dari {0} GB yang dibutuhkan oleh @@STRING_PRODUCT_NAME@@ untuk dijalankan.
+
+STRING_CANNOT_USE_FOLDER = Tidak dapat menggunakan folder
+
+STRING_APP_NAME_WATERMARK = Ketik nama aplikasi di sini
+
+STRING_FAILED_TO_RESTORE_OLD_DATA = @@STRING_PRODUCT_NAME@@ tidak dapat memulihkan datamu sebelumnya.
+
+STRING_AUTO = Auto
+
+STRING_DOWNLOAD = Download
+
+STRING_BS_REQUIRES_SPACE_DRIVE_INSTALL = @@STRING_PRODUCT_NAME@@ membutuhkan setidaknya {0} GB ruang disk kosong di {1} drive untuk memperbarui.
+
+STRING_SUBMIT = Kirimkan
+
+STRING_TOTAL_ATTACHMENT_COUNT_EXCEEDED_LIMIT = Kurang dari 10 file harus dilampirkan.
+
+NAME = Nama
+
+STRING_CUSTOM = Sesuaikan instalasi
+
+STRING_CLEAN_BLUESTACKS = Ini akan menghapus semua data game yang disimpan secara lokal di @@STRING_PRODUCT_NAME@@.
+
+STRING_GAME_LAG = Bermain game terasa lambat/lamban
+
+STRING_VERSION_ALREADY_INSTALLED = Versi terbaru sudah terinstal
+
+STRING_APPLICATION_NAME = Nama aplikasi
+
+STRING_EXIT_INSTALLER = Keluar dari penginstal
+
+STRING_SUBCATEGORY = Subkategori
+
+STIRNG_ACCEPT_TNC = Terima Ketentuan Penggunaan
+
+STRING_INSTALLATION_ERROR = Instalasi error
+
+STRING_STATUS_COLLECTING_HOST = Mengumpulkan informasi host
+
+STRING_REASON_FOR_UNINSTALL = Beri tahu kami mengapa kamu memilih untuk uninstal @@STRING_PRODUCT_NAME@@
+
+STRING_FINISHED = Lengkap
+
+STRING_AGREE = Terima
+
+STRING_PROBLEM_TYPE = Jenis masalah
+
+STRING_STATUS_COLLECTING_PRODUCT = Mengumpulkan informasi produk
+
+STRING_CREATE = Buat
+
+STRING_SELECT_APP_NAME = Pilih nama aplikasi
+
+STRING_RESTART_NOW = Restart sekarang
+
+STRING_CANCEL = Batal
+
+ANDROID = Android
+
+STRING_NO = Tidak
+
+STRING_POST_OTS_FAILED_WARNING_MESSAGE = Silakan periksa koneksi internet Anda dan coba lagi.
+
+STRING_UNINSTALL_CURRENT_AND_REINSTALL = Uninstal build kamu saat ini dan instal kembali @@STRING_PRODUCT_NAME@@.
+
+STRING_0_MINS_LEFT = {0} menit lagi
+
+STRING_WAITING_FOR_INTERNET = Menunggu koneksi internet
+
+STRING_FOLDER_CANNOT_CONTAIN_FOLLOWING_SPECIAL_CHARS = Path yang dipilih tidak boleh berisi salah satu dari karakter berikut:
+
+STRING_CLIENT_UNINSTALL = Uninstal Klien
+
+STRING_INSUFFICIENT_SPACE = Ruang disk tidak mencukupi
+
+STRING_CONTINUE = Lanjutkan
+
+STRING_SELECT_FOLDER = Pilih folder lain
+
+STRING_ROLLBACK_FAILED_SORRY_MESSAGE = Kami mohon maaf, tetapi peningkatan dan pengembalian berikutnya gagal dan tidak mungkin lagi memulihkan @@STRING_PRODUCT_NAME@@ ke keadaan sebelum peningkatan dimulai. Sayangnya, kamu hanya dapat uninstal versi yang ada dari @@STRING_PRODUCT_NAME@@ dan instal versi terbaru @@STRING_PRODUCT_NAME@@ dari situs web.
+
+STRING_CLOSE = Menutup
+
+STRING_THANKS_FOR_USING_BLUESTACKS = Terima kasih telah menggunakan @@STRING_PRODUCT_NAME@@
+
+STRING_CHECKING_YOUR_SYSTEM = Memeriksa sistem anda
+
+STRING_MINIMIZE_TOOLTIP = Memperkecil
+
+STRING_INSTALLATION_ROLLBACK_COMPLETE = Rollback selesai
+
+STRING_EXE_CRASH = .exe crash
+
+STRING_REPORT_SENT_SUCCESS = Laporan berhasil dikirim
+
+STRING_ERROR = Error
+
+STRING_INSTALLING_ENGINE = Menginstal Mesin
+
+STRING_INSTALLATION_CANCEL_CONFIRMATION = Kamu ingin membatalkan instalasi ini?
+
+STRING_SYSTEM_REQUIREMENTS_NOT_MET = Persyaratan sistem minimum tidak terpenuhi
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION_BAT_EXE = File dengan ekstensi .bat dan .exe tidak diperbolehkan.
+
+STRING_APP_DETAILS = Detail aplikasi
+
+STRING_NOUGAT = Nougat
+
+STRING_INSTALLATION_FAILED = Sayangnya, tidak dapat memasang @@STRING_PRODUCT_NAME@@.
+
+STRING_HOW_TO_TAKE_BACKUP = Bagaimana cara mencadangkan?
+
+STRING_BETA = Beta
+
+STRING_CHOOSE = Memilih
+
+STRING_APP_NAME = Masukkan nama aplikasi
+
+STRING_HYPERV_OS_RELEASEID_WARNING = Versi @@STRING_PRODUCT_NAME@@ ini membutuhkan Windows versi 1903 atau lebih tinggi. Perbarui Windows atau nonaktifkan Hyper-V untuk menginstal @@STRING_PRODUCT_NAME@@.
+
+STRING_LATEST_VERSION_INSTALLED = Versi terbaru @@STRING_PRODUCT_NAME@@ sudah diinstal di PC kamu.
+
+STRING_CREATE_SHORTCUTS = Membuat pintasan @@STRING_PRODUCT_NAME@@
+
+STRING_INSTALL_REQUIRES_ADMIN = Untuk instal, @@STRING_PRODUCT_NAME@@ memerlukan hak Administrator Windows. Kamu ingin mengizinkannya untuk melanjutkan penginstalan?
+
+STRING_CANNOT_FIND_GAME = Tidak dapat menemukan Game
+
+STRING_RECEIVE_EMAIL_NOTIFICATION = Terima notifikasi email
+
+STRING_OK = OK
+
+STRING_RESTART_TRY_AGAIN = Kami sarankan untuk merestart PC kamu dan mencoba menginstal lagi?
+
+STRING_UNINSTALL_FINISHED = Uninstal @@STRING_PRODUCT_NAME@@
+
+STRING_INSTALL_DONE = Instalasi selesai
+
+STRING_INSTALL_GAME_FAIL = Tidak dapat instal game
+
+STRING_UNINSTALL_TITLE = Uninstal @@STRING_PRODUCT_NAME@@
+
+STRING_ATTACH_FILES = Lampirkan file
+
+STRING_INSTALL_FAIL = Instalasi gagal
+
+STRING_READ_WHATS_NEW = Apa yang baru
+
+STRING_LOGCOLLECTOR_RUNNING = Alat laporan masalah sudah berjalan
+
+STRING_DESCRIBE_PROBLEM = Jelaskan masalahnya
+
+STRING_TOTAL_ATTACHMENT_SIZE_EXCEEDED_LIMIT = Total file yang dilampirkan melebihi batas maksimum yang diperbolehkan yaitu 25MB. Pilih file lain.
+
+STRING_INSUFFICIENT_DISKSPACE = PC kamu tidak memiliki ruang disk yang cukup. @@STRING_PRODUCT_NAME@@ membutuhkan
+
+STRING_ERROR_OCCURED_DEPLOYING_FILES = @@STRING_PRODUCT_NAME@@ mengalami error saat menerapkan beberapa file.
+
+STRING_HYPERV_COMPUTE_PLATFORM_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@ tidak dapat dimulai karena platform komputasi Hyper-V tidak diaktifkan di PC kamu.
+
+STRING_INSTALL_FINISH = Instalasi selesai
+
+STRING_CHECK_FAQ = Periksa FAQ
+
+STRING_DOWNLOAD_FAILED = Download gagal
+
+STRING_CANT_INSTALL_BLUESTACKS = Tidak dapat menginstal BlueStacks
+
+STRING_RESTART_MACHINE_PROMPT = Ingin Restart PC kamu?
+
+STRING_PC_INSUFFICIENT_SPACE_WARNING = Sayangnya, PC kamu tidak memiliki cukup ruang disk untuk memperbarui BlueStacks.
+
+STRING_ERROR_CODE_COLON = Kode error:
+
+STRING_YES = Iya
+
+STRING_INSTALLER = © 2011 hingga 2023 BlueStacks by now.gg, Inc. Semua hak dilindungi undang-undang di seluruh dunia
+
+STRING_RETRY_CONNECTION_ISSUE_TEXT1 = Coba lagi
+
+STRING_TRY_RESTARTING_MACHINE = Restart PC kamu dan coba lagi
+
+STRING_SELECTED_DRIVE_INSUFFICIENT_DISKSPACE = Sayangnya, drive yang dipilih tidak memiliki cukup ruang disk untuk memasang @@STRING_PRODUCT_NAME@@.
+
+STRING_AFTER_DISK_SPACE_CONTINUE = Kosongkan ruang disk yang diperlukan dan coba lagi.
+
+STRING_UPGRADE_FAILED = Upgrade gagal
+
+STRING_INSUFFICIENT_MEMORY = Memori tidak cukup
+
+STRING_BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_BST_SUPPORT_UTILITY = Utilitas dukungan @@STRING_PRODUCT_NAME@@
+
+STRING_UNINSTALL_BLUESTACKS = Kamu ingin uninstal @@STRING_PRODUCT_NAME@@?
+
+STRING_BEFORE_CREATING_SETUP = @@STRING_PRODUCT_NAME@@ sudah terpasang. Untuk membuat instance {0}, @@STRING_PRODUCT_NAME@@ perlu memperbarui ke versi terbaru.
+
+STRING_ERROR_INSTALLING_BLUESTACKS = Error menginstal @@STRING_PRODUCT_NAME@@
+
+STRING_LAUNCH = Jalankan
+
+BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_DATA_PATH = @@STRING_PRODUCT_NAME@@ data path
+
+STRING_ANTIVIRUS_PAUSE_INSTALLER =  Jeda antivirus PC kamu jika mengganggu penginstalan
+
+STRING_0_COMMA_1 = {0}, {1}
+
+NONE = Tidak ada
+
+STRING_INSTALL_NOW = Instal sekarang
+
+STRING_CATEGORY = Kategori
+
+STRING_REPORT_A_PROBLEM = Laporkan masalah
+
+STRING_SORRY_ERROR_INSTALLING_BLUESTACKS = Maaf, tampaknya ada kesalahan saat mengiinstal @@STRING_PRODUCT_NAME@@.
+
+STRING_ONE_STEP_GO_ADDITIONAL_FILES = Satu langkah lagi - beberapa file tambahan akan didownload untuk membuat instance {0}.
+
+STRING_AGREE_WITH_LICENSE = Persetujuan Anda terhadap Ketentuan Penggunaan kami diperlukan untuk melangkah lebih jauh
+
+STRING_SELECT_AGAIN = Pilih lagi
+
+STRING_START_ENGINE_FAIL = Mesin tidak bekerja
+
+STRING_INSTALLING = Menginstal
+
+STRING_32BIT = 32-bit
+
+STRING_OS_VERSION_NOT_SUPPORTED = @@STRING_PRODUCT_NAME@@ tidak didukung untuk versi Windows yang dijalankan pada PC ini.
+
+STRING_EXIT = Keluar
+
+STRING_UPGRADE_NOT_SUPPORTED = Sayangnya, tidak mungkin memutakhirkan versi yang ada dari @@STRING_PRODUCT_NAME@@ ke yang terbaru.
+
+STRING_INCOMPATIBLE_INSTALLER_STARTED = Versi installer @@STRING_PRODUCT_NAME@@ ini tidak kompatibel dengan versi Windows kamu. Harap unduh versi {0} dari @@STRING_PRODUCT_NAME@@ dan coba lagi.
+
+STRING_INSTALLER_CANNOT_STOP_AFTER_START = Sayangnya, proses penginstalan tidak dapat dihentikan setelah dimulai. Mohon tunggu sampai selesai.
+
+STRING_INVALID_FILE = File tidak valid
+
+STRING_STATUS_INITIAL = Memulai mengoleksi
+
+STRING_ATTACHMENT_SIZE_EXCEEDED = Ukuran lampiran terlampaui
+
+STRING_UPGRADE_FROM_BS1_CLEAN_OK = Instal baru
+
+STRING_INSTALLATION_ROLLBACK = Mengembalikan instalasi
+
+STRING_LATEST_VERSION = Kamu menggunakan versi terbaru
+
+STRING_ATTACHMENT_COUNT_EXCEEDED = Jumlah lampiran terlampaui
+
+STRING_CHANGE_FOLDER = Ganti Folder
+
+STRING_CREATE_0_INSTANCE = Buat instance {0}?
+
+STRING_BACK = Kembali
+
+STRING_SOFTWARE_LICENSE = lisensi perangkat lunak
+
+STRING_SPACE_AVAILABLE = Ruang tersedia
+
+STRING_BLACK_SCREEN = Layar hitam
+
+STRING_UPGRADE_FROM_BS1_CLEAN_CANCEL = Pertahankan yang lama
+
+STRING_BLUESTACKS_INSTALLER = @@STRING_PRODUCT_NAME@@ installer
+
+STRING_LOGCOLLECTOR_DESCRIPTION_WARNING = Masukkan lebih dari 10 karakter dalam deskripsi
+
+STRING_INITIATING_PERFORMANCE_BOOST = Menyelesaikan langkah-langkah pasca instalasi
+
+STRING_UNFORTUNATELY_COULDNT_UPGRADE = Tidak dapat memperbarui BlueStacks 5.
+
+STRING_HYPERV_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@ tidak dapat memulai saat Hyper-V dinonaktifkan.
+
+STRING_INCOMPATIBLE_INSTALLER = Penginstal tidak kompatibel
+
+STRING_UNINSTALL = Uninstal
+
+STRING_ADDITIONAL_FILES_DOWNLOAD_INSTANCE = @@STRING_PRODUCT_NAME@@ sudah terpasang. Untuk membuat instance {0}, beberapa file tambahan akan didownload.
+
+STRING_PREINSTALL_FAIL = Sayangnya, PC kamu tidak memenuhi persyaratan minimum untuk menginstal @@STRING_PRODUCT_NAME@@.
+
+STRING_UPGRADE_NOW = Memperbarui sekarang
+
+STRING_0_OF_1 = {0} dari {1}
+
+STRING_SUBMIT_REPORT = Kirimkan laporan
+
+STRING_OTHER_REASON = Alasan atau informasi lain, mis., Nama game, dll.
+
+STRING_ENGINE_UNINSTALL = Uninstal Mesin
+
+STRING_STATUS_SENDING = Mengirim laporan masalah
+
+STRING_CONFLICT_WITH_OTHERS = Konflik dengan perangkat lunak lain
+
+STRING_INSTALLATION_START_WHEN_DOWNLOAD_FINISHES = Penginstalan akan dimulai segera setelah pengunduhan selesai.
+
+STRING_YOUR_EMAIL = Alamat email kamu
+
+STRING_BS_CANNOT_INSTALL_64_ON_32 = @@STRING_PRODUCT_NAME@@ tidak dapat memasang Android versi 64-bit karena Anda menggunakan Windows 32-bit.
+
+STRING_PRE_INSTALL_CHECKS = Memeriksa persyaratan sistem
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION = File yang kamu coba lampirkan bukanlah sebuah gambar. Harap lampirkan screenshot permasalahan dan coba lagi.
+
+STRING_CONTINUE_IN_BACKGROUND = Ingin lanjut mengunduh @@STRING_PRODUCT_NAME@@ dari latar belakang?
+
+STRING_ADMINISTRATIVE_RIGHTS_REQUIRED = Hak administrator diperlukan
+
+STRING_PROMPT = Tidak dapat mengirim laporan masalah. File bernama BlueStacks-Support.zip telah dibuat di desktop kamu. Silakan email file ini bersama dengan penjelasan singkat tentang masalah yang kamu alami ke support@bluestacks.com.
+
+VERSION = Versi
+
+STRING_INSTALL_ENGINE_FAIL = Tidak dapat menginstal Mesin
+
+STRING_BST_INSTALLER_ALREADY_RUNNING = Instance lain dari @@STRING_PRODUCT_NAME@@ installer sudah berjalan.
+
+STRING_UPDATE_SETTING = Update
+
+STRING_EXTRACTING_FILES = Mengekstrak file
+
+STRING_FREE_DISK_SPACE = Bagaimana cara menjalankan utilitas pembersihan disk?
+
+STRING_INSTALL = Instal
+
+STRING_ERROR_WHILE_DOWNLOADING_BS = Terjadi kesalahan saat mencoba mengunduh @@STRING_PRODUCT_NAME@@.
+
+STRING_SELECT = Pilih
+
+STRING_OLD_INSTALLATION_INTERFERING = Tampaknya penginstalan @@STRING_PRODUCT_NAME@@ yang ada mengganggu upaya penginstalan @@STRING_PRODUCT_NAME@@ saat ini.
+
+STRING_OUTLINE_ISSUE = Jelaskan masalah di bawah agar kami dapat memahami cara membantumu.
+
+STRING_FINISH_REPORT_SEND = Laporan masalah kamu telah dikirim. Kami akan segera menghubungimu.
+
+STRING_STATUS_ARCHIVING = Membuat arsip dukungan
+
+STRING_PC_MIN_REQ_UNMET_HOWEVER_PLAY_ON_X = PC Anda tidak memenuhi persyaratan sistem minimum untuk menginstal @@STRING_PRODUCT_NAME@@. Namun, Anda dapat memainkan game Android favorit Anda secara online di cloud kami menggunakan BlueStacks X.
+
+STRING_PLAY_ON_CLOUD = Mainkan di Cloud
+
+STRING_NOT_ENOUGH_SPACE_PLAY_X = @@STRING_PRODUCT_NAME@@ membutuhkan setidaknya {0} GB ruang disk kosong di drive {1} untuk memasang. Anda dapat mengosongkan ruang disk yang diperlukan dan mencoba lagi, atau mengubah tempat untuk menginstal di drive lain, atau bermain online di cloud kami menggunakan BlueStacks X.
+
+STRING_BSX_ON_GL_UNSUPPORTED = Kartu grafis Anda atau drivernya tidak kompatibel dengan @@STRING_PRODUCT_NAME@@. Harap perbarui driver Anda dan coba lagi penginstalan. Anda juga dapat memainkan game Android favorit Anda secara online di cloud kami menggunakan BlueStacks X.
+
+
+STRING_PC_MIN_REQ_UNMET = PC Anda tidak memenuhi persyaratan sistem minimum untuk menginstal @@STRING_PRODUCT_NAME@@.
+
+STRING_NOT_ENOUGH_SPACE = @@STRING_PRODUCT_NAME@@ membutuhkan setidaknya {0} GB ruang disk kosong di drive {1} untuk memasang. Anda dapat mengosongkan ruang disk yang diperlukan dan mencoba lagi, atau mengubah jalur untuk menginstal di drive lain.
+
+STRING_GL_UNSUPPORTED = Kartu grafis Anda atau drivernya tidak kompatibel dengan @@STRING_PRODUCT_NAME@@. Harap perbarui driver Anda dan coba lagi penginstalan.
+
+STRING_INTERNET_UNSTABLE = Koneksi Internet Anda tidak stabil. Periksa koneksi Anda dan coba lagi.
+
+STRING_CHANGE_PATH = Ubah path
+
+STRING_MIN_REQ_FAILED_0 = Sistem Anda tidak memenuhi persyaratan minimum untuk menjalankan {0}.
+
+STRING_INSTALL_32BIT = Harap instal versi @@STRING_PRODUCT_NAME@@ {0}.
+
+STRING_OTHER = Lainnya
+
+STRING_RETRY_BANNER_MESSAGE = Terjadi kesalahan saat mengekstrak beberapa file. Harap coba lagi atau {0} untuk mendapatkan bantuan jika masalah terus berlanjut.
+
+STRING_CONTACT_US = hubungi kami
+
+STRING_ABORT = Batalkan
+
+STRING_ANDROID11 = Android 11
+
+STRING_BACKUP_AND_RESTORE = Cadangkan dan pulihkan
+
+STRING_BACKUP_PROGRESS = Pencadangan sedang berlangsung
+
+STRING_BACKUP_WARNING = Jangan merestart atau mematikan komputer Anda hingga proses selesai.
+
+STRING_BACKUP_SUCCESSFUL_HEADER = Pencadangan berhasil
+
+STRING_BACKUP_SUCCESSFUL_BODY = Data Anda berhasil dicadangkan ke folder berikut:
+
+STRING_LAUNCH_PLAYER = Jalankan @@STRING_PRODUCT_NAME@@
+
+STRING_CANCEL_BACKUP = Batalkan pencadangan?
+
+STRING_CANCEL_BACKUP_INFO = Apakah Anda yakin ingin membatalkan pencadangan, Anda dapat melakukannya lagi nanti dari pengaturan.
+
+STRING_DONT_CANCEL = Jangan batalkan
+
+STRING_RESTORING_BACKUP = Memulihkan data
+
+STRING_SELECT_BACKUP = Pilih cadangan
+
+STRING_SELECT_RESTORE = Pilih pulihkan
+
+STRING_INCORRECT_PATH = Folder yang salah dipilih. Pilih folder cadangan yang benar yang ingin Anda pulihkan dan coba lagi.
+
+STRING_RESTORE_FAILURE = Pemulihan tidak berhasil
+
+STRING_RESTORE_FAIL_INFO = Terjadi masalah saat memulihkan data Anda. Silakan coba lagi.
+
+STRING_COULD_NOT_RESOTRE_INSUFFICIENT_SPACE = Diperlukan setidaknya {0} GB ruang disk untuk memulihkan data Anda. Kosongkan sebagian ruang disk dan coba lagi.
+
+STRING_BACKUP_FAILED = Pencadangan gagal
+
+STRING_BACKUP_FAIL_INFO = Terjadi masalah saat mencadangkan data Anda. Silakan coba lagi.
+
+STRING_COULD_NOT_BACKUP_INSUFFICIENT_SPACE = Setidaknya {0} GB ruang disk diperlukan untuk mencadangkan data Anda. Harap ubah lokasi drive atau kosongkan beberapa ruang.
+
+STRING_CHANGE_LOCATION = Ganti lokasi
+
+STRING_RESTORE_SUCCESSFUL_HEADER = Pemulihan berhasil
+
+STRING_RESTORE_SUCCESSFUL_BODY = Data Anda berhasil dipulihkan.
+
+STRING_UNABLE_TO_INSTALL = Tidak dapat menginstal
+
+STRING_VALID_CERT_ERROR = Pembaruan Windows penting yang diperlukan untuk penginstalan tidak tersedia. Baca artikel untuk mempelajari cara mengatasinya.
+
+STRING_READ_ARTICLE = Baca artikel
+
+STRING_SELECT_BACKUP_FOLDER = Pilih folder tempat kamu ingin membuat cadangan
+
+STRING_BEFORE_YOU_RESTORE = Sebelum kamu memulihkan
+
+STRING_RESTORE_FAIL_WARNING = Perlu diketahui bahwa memulihkan data dari cadangan @@STRING_PRODUCT_NAME@@ versi lama ke versi saat ini mungkin tidak berhasil.
+
+STRING_RESTORE_NOT_PERMITTED = Memulihkan cadangan yang lebih baru ke @@STRING_PRODUCT_NAME@@ versi lama tidak didukung.
+
+STRING_BACKUP_ERROR_INVALID_PATH_SELECTED = Terjadi kesalahan saat mencadangkan data Anda. Pilih folder lain dan coba lagi.
+
+STRING_BACKUP_UNSUCCESSFUL = Pencadangan gagal
+STRING_CONTACT_TECHNICAL_SUPPORT = Anda dapat menghubungi dukungan teknis secara langsung untuk menyelesaikan masalah Anda
+
+STRING_PREFER_BS4 = Lebih suka BS4
+
+STRING_NECESSARY_ACTIONS = Harap tunggu sementara BlueStacks melakukan tindakan yang diperlukan
+
+STRING_RESTART_LATER = Restart nanti
+
+STRING_PROCESS_COMPLETED = Proses selesai dengan sukses.
+
+STRING_RESTART_FOR_CHANGES = Apakah Anda ingin me-restart PC Anda agar perubahan diterapkan?
+
+STRING_UPDATE_WIN7_TITLE = Perbarui ke versi terbaru Windows 7
+
+STRING_UPDATE_WIN7_MESSAGE = Untuk memastikan sistem Anda memenuhi persyaratan minimum, Anda harus menginstal Windows 7 Service Pack 1. Lihat artikel untuk mengetahui langkah-langkah detailnya.

@@ -1,0 +1,495 @@
+STRING_RESTART = Перезагрузить
+
+STRING_LEARN_MORE = Узнать больше
+
+STRING_APP_CRASH = Приложение вылетает
+
+STRING_64BIT = 64-bit
+
+STRING_WARNING = Внимание
+
+STRING_PIE = Pie
+
+STRING_FOLDER = Папка
+
+STRING_CANNOT_INSTALL_0 = Не удается установить @@STRING_PRODUCT_NAME@@ {0}
+
+STRING_RESTART_PC = Перезагрузить ПК
+
+STRING_STATUS_COLLECTING_GUEST = Собираем информацию об Android
+
+STRING_DOWNLOADING = Скачивание
+
+STRING_CANT_USE_THIS_FOLDER = К сожалению, нельзя установить @@STRING_PRODUCT_NAME@@ в выбранную папку
+
+STRING_ERROR_SENDING_REPORT = Произошла ошибка во время отправления отчета
+
+STRING_SPACE_REQUIRED = Необходимо свободного места
+
+STRING_HYPERV_DISABLED_MESSAGE = @@STRING_PRODUCT_NAME@@ не может быть запущен без включенного Hyper-V. Пожалуйста, включите Microsoft Hyper-V, перейдя на Панель управления Windows. Посмотрите FAQ, чтобы узнать больше.
+
+STRING_COULDNT_RESTORE_UNUSABLE = Не удалось восстановить предыдущее состояние @@STRING_PRODUCT_NAME@@, поэтому его невозможно использовать.
+
+STRING_CHOOSE_AGAIN = Выбрать снова
+
+STRING_RETRY = Повторить
+
+STRING_DISABLED_VT = @@STRING_PRODUCT_NAME@@ необходимо чтобы технология виртуализации (VT) была включена на вашем ПК для оптимальной производительности. Перейдите в FAQ, чтобы узнать, как включить VT.
+
+STRING_MINIMIZE_INSTALLER = Свернуть установщик?
+
+STRING_PC_HAS_LESS_MEMORY = На вашем ПК менее {0} ГБ памяти, необходимых для работы @@STRING_PRODUCT_NAME@@.
+
+STRING_CANNOT_USE_FOLDER = Невозможно использовать папку
+
+STRING_APP_NAME_WATERMARK = Введите название приложения
+
+STRING_FAILED_TO_RESTORE_OLD_DATA = @@STRING_PRODUCT_NAME@@ не смог восстановить ваши предыдущие данные.
+
+STRING_AUTO = Авто
+
+STRING_DOWNLOAD = Скачать
+
+STRING_BS_REQUIRES_SPACE_DRIVE_INSTALL = Для установки обновления @@STRING_PRODUCT_NAME@@ необходимо минимум {0} ГБ дискового пространства на {1}.
+
+STRING_SUBMIT = Отправить
+
+STRING_TOTAL_ATTACHMENT_COUNT_EXCEEDED_LIMIT = Допустимое количество вложенных файлов не может превышать 10.
+
+NAME = Имя
+
+STRING_CUSTOM = Изменить путь установки
+
+STRING_CLEAN_BLUESTACKS = Это действие полностью удалит данные игр, сохраненные на @@STRING_PRODUCT_NAME@@.
+
+STRING_GAME_LAG = Приложение лагает и тормозит
+
+STRING_VERSION_ALREADY_INSTALLED = Последняя версия уже установлена
+
+STRING_APPLICATION_NAME = Название приложения
+
+STRING_EXIT_INSTALLER = Выйти из установщика
+
+STRING_SUBCATEGORY = Подкатегория
+
+STIRNG_ACCEPT_TNC = Согласиться с Условиями использования
+
+STRING_INSTALLATION_ERROR = Ошибка установки
+
+STRING_STATUS_COLLECTING_HOST = Собираем информацию о хосте
+
+STRING_REASON_FOR_UNINSTALL = Пожалуйста, сообщите нам, почему вы решили удалить @@STRING_PRODUCT_NAME@@
+
+STRING_FINISHED = Завершено
+
+STRING_AGREE = Принять
+
+STRING_PROBLEM_TYPE = Тип проблемы
+
+STRING_STATUS_COLLECTING_PRODUCT = Собираем информацию о продукте
+
+STRING_CREATE = Создать
+
+STRING_SELECT_APP_NAME = Выбрать название приложения
+
+STRING_RESTART_NOW = Перезапустить
+
+STRING_CANCEL = Отменить
+
+ANDROID = Android
+
+STRING_NO = Нет
+
+STRING_POST_OTS_FAILED_WARNING_MESSAGE = Пожалуйста, проверьте интернет-соединение и попробуйте снова.
+
+STRING_UNINSTALL_CURRENT_AND_REINSTALL = Пожалуйста, удалите вашу текущую версию и переустановите @@STRING_PRODUCT_NAME@@.
+
+STRING_0_MINS_LEFT = {0} мин. осталось
+
+STRING_WAITING_FOR_INTERNET = Ожидание интернет-соединения
+
+STRING_FOLDER_CANNOT_CONTAIN_FOLLOWING_SPECIAL_CHARS = Выбранный путь не может содержать следующие символы:
+
+STRING_CLIENT_UNINSTALL = Удаляем клиент
+
+STRING_INSUFFICIENT_SPACE = Недостаточно места на диске
+
+STRING_CONTINUE = Продолжить
+
+STRING_SELECT_FOLDER = Пожалуйста, выберите другую папку
+
+STRING_ROLLBACK_FAILED_SORRY_MESSAGE = Мы очень сожалеем, но обновление и откат были выполнены некорректно. Мы не можем вернуть @@STRING_PRODUCT_NAME@@ к состоянию до обновления. Единственное решение этой ситуации — это полностью удалить текущую версию @@STRING_PRODUCT_NAME@@ и установить новую, скачав ее с нашего сайта.
+
+STRING_CLOSE = Закрыть
+
+STRING_THANKS_FOR_USING_BLUESTACKS = Спасибо за использование @@STRING_PRODUCT_NAME@@
+
+STRING_CHECKING_YOUR_SYSTEM = Проверяем вашу систему
+
+STRING_MINIMIZE_TOOLTIP = Уменьшить
+
+STRING_INSTALLATION_ROLLBACK_COMPLETE = Откат выполнен
+
+STRING_EXE_CRASH = .exe вылетает
+
+STRING_REPORT_SENT_SUCCESS = Отчет успешно отправлен
+
+STRING_ERROR = Ошибка
+
+STRING_INSTALLING_ENGINE = Установка движка виртуализации
+
+STRING_INSTALLATION_CANCEL_CONFIRMATION = Вы хотите отменить установку?
+
+STRING_SYSTEM_REQUIREMENTS_NOT_MET = Минимальные системные требования не удовлетворены
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION_BAT_EXE = Файлы в форматах .bat и .exe недопустимы.
+
+STRING_APP_DETAILS = Сведения о приложении
+
+STRING_NOUGAT = Nougat
+
+STRING_INSTALLATION_FAILED = К сожалению, не удалось установить @@STRING_PRODUCT_NAME@@.
+
+STRING_HOW_TO_TAKE_BACKUP = Как создать бэкап данных?
+
+STRING_BETA = Бета
+
+STRING_CHOOSE = Выбрать
+
+STRING_APP_NAME = Введите название приложения
+
+STRING_HYPERV_OS_RELEASEID_WARNING = Для этой версии @@STRING_PRODUCT_NAME@@ необходима ОС Windows 1903 или выше. Пожалуйста, обновите Windows или отключите Hyper-V, чтобы установить @@STRING_PRODUCT_NAME@@.
+
+STRING_LATEST_VERSION_INSTALLED = Последняя версия @@STRING_PRODUCT_NAME@@ уже установлена на вашем ПК.
+
+STRING_CREATE_SHORTCUTS = Создаем ярлыки @@STRING_PRODUCT_NAME@@
+
+STRING_INSTALL_REQUIRES_ADMIN = @@STRING_PRODUCT_NAME@@ необходимы права администратора на вашем ПК. Желаете ли вы их предоставить, чтобы завершить установку?
+
+STRING_CANNOT_FIND_GAME = Невозможно найти игру
+
+STRING_RECEIVE_EMAIL_NOTIFICATION = Получать уведомления на email
+
+STRING_OK = Ок
+
+STRING_RESTART_TRY_AGAIN = Пожалуйста, перезагрузите ПК и попробуйте установить программу еще раз.
+
+STRING_UNINSTALL_FINISHED = @@STRING_PRODUCT_NAME@@ удален
+
+STRING_INSTALL_DONE = Установка завершена
+
+STRING_INSTALL_GAME_FAIL = Невозможно установить игру
+
+STRING_UNINSTALL_TITLE = Удалить @@STRING_PRODUCT_NAME@@
+
+STRING_ATTACH_FILES = Прикрепить файлы
+
+STRING_INSTALL_FAIL = Ошибка при установке
+
+STRING_READ_WHATS_NEW = Узнайте, что нового
+
+STRING_LOGCOLLECTOR_RUNNING = Инструмент создания отчета о проблеме уже запущен
+
+STRING_DESCRIBE_PROBLEM = Опишите проблему
+
+STRING_TOTAL_ATTACHMENT_SIZE_EXCEEDED_LIMIT = Файлы, которые вы пытаетесь прикрепить, превышают максимально допустимый размер (25 MБ). Пожалуйста, выберите другие файлы.
+
+STRING_INSUFFICIENT_DISKSPACE = Недостаточно свободного места на диске. @@STRING_PRODUCT_NAME@@ требует
+
+STRING_ERROR_OCCURED_DEPLOYING_FILES = @@STRING_PRODUCT_NAME@@ обнаружил ошибку во время выгрузки некоторых файлов.
+
+STRING_HYPERV_COMPUTE_PLATFORM_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@ не запускается, так как на вашем ПК выключен Hyper-V.
+
+STRING_INSTALL_FINISH = Установка завершена
+
+STRING_CHECK_FAQ = Посмотреть FAQ
+
+STRING_DOWNLOAD_FAILED = Загрузка не удалась
+
+STRING_CANT_INSTALL_BLUESTACKS = Невозможно установить BlueStacks
+
+STRING_RESTART_MACHINE_PROMPT = Вы хотите перезапустить ваш ПК?
+
+STRING_PC_INSUFFICIENT_SPACE_WARNING = К сожалению, на вашем ПК недостаточно места на диске для обновления BlueStacks.
+
+STRING_ERROR_CODE_COLON = Код ошибки:
+
+STRING_YES = Да
+
+STRING_INSTALLER = © 2011-2023 BlueStacks by now.gg, Inc. Все права защищены
+
+STRING_RETRY_CONNECTION_ISSUE_TEXT1 = Попробовать снова
+
+STRING_TRY_RESTARTING_MACHINE = Перезагрузите ваш ПК и попробуйте снова
+
+STRING_SELECTED_DRIVE_INSUFFICIENT_DISKSPACE = К сожалению, на выбранном диске недостаточно места для установки @@STRING_PRODUCT_NAME@@.
+
+STRING_AFTER_DISK_SPACE_CONTINUE = Пожалуйста, освободите место на диске и попробуйте снова.
+
+STRING_UPGRADE_FAILED = Сбой процесса обновления
+
+STRING_INSUFFICIENT_MEMORY = Недостаточно памяти
+
+STRING_BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_BST_SUPPORT_UTILITY = Утилита поддержки @@STRING_PRODUCT_NAME@@
+
+STRING_UNINSTALL_BLUESTACKS = Вы хотите удалить @@STRING_PRODUCT_NAME@@?
+
+STRING_BEFORE_CREATING_SETUP = @@STRING_PRODUCT_NAME@@ уже установлен. Чтобы создать окно {0}, необходимо обновить @@STRING_PRODUCT_NAME@@ до самой актуальной версии.
+
+STRING_ERROR_INSTALLING_BLUESTACKS = Ошибка установки @@STRING_PRODUCT_NAME@@
+
+STRING_LAUNCH = Запустить
+
+BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_DATA_PATH = Путь хранения данных @@STRING_PRODUCT_NAME@@
+
+STRING_ANTIVIRUS_PAUSE_INSTALLER =  Приостановите работу антивирусного ПО, если оно препятствует установке программы
+
+STRING_0_COMMA_1 = {0}, {1}
+
+NONE = Отсутствует
+
+STRING_INSTALL_NOW = Установить сейчас
+
+STRING_CATEGORY = Категория
+
+STRING_REPORT_A_PROBLEM = Сообщить о проблеме
+
+STRING_SORRY_ERROR_INSTALLING_BLUESTACKS = Произошла ошибка при установке @@STRING_PRODUCT_NAME@@.
+
+STRING_ONE_STEP_GO_ADDITIONAL_FILES = Остался еще один шаг! Необходимо загрузить дополнительные файлы, чтобы создать окно {0}.
+
+STRING_AGREE_WITH_LICENSE = Пожалуйста, примите Условия пользовательского соглашения, чтобы продолжить
+
+STRING_SELECT_AGAIN = Выбрать снова
+
+STRING_START_ENGINE_FAIL = Не запускается движок
+
+STRING_INSTALLING = Устанавливаем
+
+STRING_32BIT = 32-bit
+
+STRING_OS_VERSION_NOT_SUPPORTED = @@STRING_PRODUCT_NAME@@ не поддерживается версией Windows, установленной на этом ПК.
+
+STRING_EXIT = Выход
+
+STRING_UPGRADE_NOT_SUPPORTED = К сожалению, невозможно обновить текущую версию @@STRING_PRODUCT_NAME@@ до последней.
+
+STRING_INCOMPATIBLE_INSTALLER_STARTED = Эта версия установщика @@STRING_PRODUCT_NAME@@ несовместима с вашей версией Windows. Пожалуйста, скачайте {0} версию @@STRING_PRODUCT_NAME@@ и попробуйте снова.
+
+STRING_INSTALLER_CANNOT_STOP_AFTER_START = К сожалению, вы не можете прервать процесс установки. Пожалуйста, дождитесь его окончания.
+
+STRING_INVALID_FILE = Недопустимый тип файла
+
+STRING_STATUS_INITIAL = Запускаем cборщик
+
+STRING_ATTACHMENT_SIZE_EXCEEDED = Превышен размер вложения
+
+STRING_UPGRADE_FROM_BS1_CLEAN_OK = Установить новый
+
+STRING_INSTALLATION_ROLLBACK = Откатить установку
+
+STRING_LATEST_VERSION = У вас установлена самая актуальная версия
+
+STRING_ATTACHMENT_COUNT_EXCEEDED = Превышен размер вложения
+
+STRING_CHANGE_FOLDER = Изменить папку
+
+STRING_CREATE_0_INSTANCE = Создать окно {0}?
+
+STRING_BACK = Назад
+
+STRING_SOFTWARE_LICENSE = лицензию ПО
+
+STRING_SPACE_AVAILABLE = Доступно место
+
+STRING_BLACK_SCREEN = Черный экран
+
+STRING_UPGRADE_FROM_BS1_CLEAN_CANCEL = Оставить старый
+
+STRING_BLUESTACKS_INSTALLER = Установщик @@STRING_PRODUCT_NAME@@
+
+STRING_LOGCOLLECTOR_DESCRIPTION_WARNING = Введите более 10 символов в описании
+
+STRING_INITIATING_PERFORMANCE_BOOST = Завершаем этапы после установки
+
+STRING_UNFORTUNATELY_COULDNT_UPGRADE = Не удалось обновить BlueStacks 5.
+
+STRING_HYPERV_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@ не может быть запущен при выключенном Hyper-V.
+
+STRING_INCOMPATIBLE_INSTALLER = Несовместимый установщик
+
+STRING_UNINSTALL = Удалить
+
+STRING_ADDITIONAL_FILES_DOWNLOAD_INSTANCE = @@STRING_PRODUCT_NAME@@ уже установлен. Чтобы создать окно {0}, необходимо загрузить дополнительные файлы.
+
+STRING_PREINSTALL_FAIL = К сожалению, ваш компьютер не удовлетворяет минимальным системным требованиям, чтобы установить @@STRING_PRODUCT_NAME@@.
+
+STRING_UPGRADE_NOW = Обновить сейчас
+
+STRING_0_OF_1 = {0} из {1}
+
+STRING_SUBMIT_REPORT = Отправить отчет
+
+STRING_OTHER_REASON = Другие причины или дополнительная информация (название игры и т. д.)
+
+STRING_ENGINE_UNINSTALL = Удаляем движок виртуализации
+
+STRING_STATUS_SENDING = Отправляем отчет о проблеме
+
+STRING_CONFLICT_WITH_OTHERS = Конфликт с другим ПО
+
+STRING_INSTALLATION_START_WHEN_DOWNLOAD_FINISHES = Установка начнется после завершения загрузки
+
+STRING_YOUR_EMAIL = Ваш email
+
+STRING_BS_CANNOT_INSTALL_64_ON_32 = @@STRING_PRODUCT_NAME@@ не может подготовить для вас 64-битную версию Android, так как вы используете 32-битную версию Windows.
+
+STRING_PRE_INSTALL_CHECKS = Проверяем ресурсы системы
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION = Файл, который вы пытаетесь прикрепить, не является изображением. Пожалуйста, прикрепите скриншот, на котором видна проблема, и повторите попытку.
+
+STRING_CONTINUE_IN_BACKGROUND = Желаете ли вы продолжить загрузку @@STRING_PRODUCT_NAME@@ в фоновом режиме?
+
+STRING_ADMINISTRATIVE_RIGHTS_REQUIRED = Необходимы права администратора
+
+STRING_PROMPT = Не удалось отправить отчет о проблеме. Файл с именем BlueStacks-Support.zip создан на рабочем столе вашего ПК. Отправьте этот файл вместе с кратким описанием вашей ситуации на support@bluestacks.com.
+
+VERSION = Версия
+
+STRING_INSTALL_ENGINE_FAIL = Невозможно установить движок
+
+STRING_BST_INSTALLER_ALREADY_RUNNING = Другое окно инсталлера @@STRING_PRODUCT_NAME@@ уже запущено.
+
+STRING_UPDATE_SETTING = Обновить
+
+STRING_EXTRACTING_FILES = Распаковка файлов
+
+STRING_FREE_DISK_SPACE = Как запустить утилиту очистки диска?
+
+STRING_INSTALL = Установить
+
+STRING_ERROR_WHILE_DOWNLOADING_BS = Произошла ошибка во время загрузки @@STRING_PRODUCT_NAME@@.
+
+STRING_SELECT = Выбрать
+
+STRING_OLD_INSTALLATION_INTERFERING = Похоже, предыдущая установка препятствует установке этой версии @@STRING_PRODUCT_NAME@@.
+
+STRING_OUTLINE_ISSUE = Пожалуйста, подробно опишите проблему, чтобы мы смогли решить ее.
+
+STRING_FINISH_REPORT_SEND = Ваше сообщение и отчет о проблеме отправлены. Мы свяжемся с вами в ближайшее время.
+
+STRING_STATUS_ARCHIVING = Создаем архив для службы поддержки
+
+STRING_PC_MIN_REQ_UNMET_HOWEVER_PLAY_ON_X = Ваш компьютер не соответствует минимальным системным требованиям для установки @@STRING_PRODUCT_NAME@@. Однако вы можете играть в свои любимые игры для Android в облаке с помощью BlueStacks X.
+
+STRING_PLAY_ON_CLOUD = Играть в облаке
+
+STRING_NOT_ENOUGH_SPACE_PLAY_X = Для установки @@STRING_PRODUCT_NAME@@ требуется не менее {0} ГБ свободного места на диске {1}. Освободите необходимое место и повторите попытку. Кроме того, вы можете изменить путь для установки @@STRING_PRODUCT_NAME@@ или играть в облаке с помощью BlueStacks X.
+
+STRING_BSX_ON_GL_UNSUPPORTED = Ваша видеокарта или ее драйверы несовместимы с @@STRING_PRODUCT_NAME@@. Обновите драйверы и повторите установку. Вы также можете играть в свои любимые игры для Android в облаке с помощью BlueStacks X.
+
+
+STRING_PC_MIN_REQ_UNMET = Ваш компьютер не удовлетворяет минимальным системным требованиям, чтобы установить @@STRING_PRODUCT_NAME@@.
+
+STRING_NOT_ENOUGH_SPACE = Для установки @@STRING_PRODUCT_NAME@@ требуется не менее {0} ГБ свободного места на диске {1}. Освободите необходимое место и повторите попытку или измените путь для установки на другом диске.
+
+STRING_GL_UNSUPPORTED = Ваша видеокарта или ее драйверы несовместимы с @@STRING_PRODUCT_NAME@@. Пожалуйста, обновите видеодрайверы и повторите установку.
+
+STRING_INTERNET_UNSTABLE = Ваше интернет-соединение нестабильно. Пожалуйста, проверьте подключение и повторите попытку.
+
+STRING_CHANGE_PATH = Изменить путь
+
+STRING_MIN_REQ_FAILED_0 = Ваша система не соответствует минимальным требованиям для воспроизведения {0}.
+
+STRING_INSTALL_32BIT = Пожалуйста, установите версию @@STRING_PRODUCT_NAME@@ {0}.
+
+STRING_OTHER = Другое
+
+STRING_RETRY_BANNER_MESSAGE = Произошла ошибка при извлечении некоторых файлов. Повторите попытку или {0} для получения помощи, если проблема не устранена.
+
+STRING_CONTACT_US = свяжитесь с нами
+
+STRING_ABORT = Прервать
+
+STRING_ANDROID11 = Android 11
+
+STRING_BACKUP_AND_RESTORE = Бэкап и восстановление
+
+STRING_BACKUP_PROGRESS = Выполняется резервное копирование
+
+STRING_BACKUP_WARNING = Не перезагружайте и не выключайте компьютер до завершения процесса.
+
+STRING_BACKUP_SUCCESSFUL_HEADER = Резервное копирование выполнено успешно
+
+STRING_BACKUP_SUCCESSFUL_BODY = Ваши данные были успешно скопированы в следующую папку:
+
+STRING_LAUNCH_PLAYER = Запуск @@STRING_PRODUCT_NAME@@
+
+STRING_CANCEL_BACKUP = Отменить резервное копирование?
+
+STRING_CANCEL_BACKUP_INFO = Вы уверены, что хотите отменить резервное копирование? Вы сможете сделать это позже в настройках.
+
+STRING_DONT_CANCEL = Не отменять
+
+STRING_RESTORING_BACKUP = Восстановление данных
+
+STRING_SELECT_BACKUP = Выберите резервную копию
+
+STRING_SELECT_RESTORE = Выберите восстановление
+
+STRING_INCORRECT_PATH = Выбрана неправильная папка. Пожалуйста, выберите правильную папку резервной копии, которую вы хотите восстановить, и повторите попытку.
+
+STRING_RESTORE_FAILURE = Восстановление завершено неудачно
+
+STRING_RESTORE_FAIL_INFO = Что-то пошло не так при восстановлении ваших данных. Пожалуйста, попробуйте еще раз.
+
+STRING_COULD_NOT_RESOTRE_INSUFFICIENT_SPACE = Для восстановления данных требуется не менее {0} ГБ дискового пространства. Освободите место на диске и повторите попытку.
+
+STRING_BACKUP_FAILED = Не удалось создать бэкап
+
+STRING_BACKUP_FAIL_INFO = Что-то пошло не так при резервном копировании ваших данных. Пожалуйста, попробуйте еще раз.
+
+STRING_COULD_NOT_BACKUP_INSUFFICIENT_SPACE = Для резервного копирования ваших данных требуется не менее {0} ГБ дискового пространства. Пожалуйста, измените расположение диска или освободите место.
+
+STRING_CHANGE_LOCATION = Выбрать другую папку
+
+STRING_RESTORE_SUCCESSFUL_HEADER = Восстановление успешно
+
+STRING_RESTORE_SUCCESSFUL_BODY = Ваши данные успешно восстановлены.
+
+STRING_UNABLE_TO_INSTALL = Не удалось установить
+
+STRING_VALID_CERT_ERROR = Ключевые обновления Windows, необходимые для установки, недоступны. Прочтите статью, чтобы узнать, как решить эту проблему.
+
+STRING_READ_ARTICLE = Читать статью
+
+STRING_SELECT_BACKUP_FOLDER = Выберите папку для создания бэкапа
+
+STRING_BEFORE_YOU_RESTORE = Перед восстановлением
+
+STRING_RESTORE_FAIL_WARNING = Пожалуйста, имейте в виду, что восстановление данных из резервной копии более старой версии @@STRING_PRODUCT_NAME@@ в текущую версию может оказаться неудачным.
+
+STRING_RESTORE_NOT_PERMITTED = Восстановление более новой резервной копии на более старой версии @@STRING_PRODUCT_NAME@@ не поддерживается.
+
+STRING_BACKUP_ERROR_INVALID_PATH_SELECTED = Что-то пошло не так при резервном копировании ваших данных. Выберите другую папку и повторите попытку.
+
+STRING_BACKUP_UNSUCCESSFUL = Не удалось создать бэкап
+STRING_CONTACT_TECHNICAL_SUPPORT = Вы можете обратиться в службу технической поддержки напрямую для решения вашей проблемы
+
+STRING_PREFER_BS4 = Предпочитаю BS4
+
+STRING_NECESSARY_ACTIONS = Подождите, пока BlueStacks выполнит необходимые действия.
+
+STRING_RESTART_LATER = Перезагрузить позже
+
+STRING_PROCESS_COMPLETED = Процесс завершился успешно.
+
+STRING_RESTART_FOR_CHANGES = Хотите ли вы перезагрузить компьютер, чтобы изменения вступили в силу?
+
+STRING_UPDATE_WIN7_TITLE = Обновитесь до последней версии Windows 7
+
+STRING_UPDATE_WIN7_MESSAGE = Чтобы убедиться, что ваша система соответствует минимальным требованиям, вы должны установить Service Pack 1 для Windows 7. Ознакомьтесь со статьёй для подробностей.

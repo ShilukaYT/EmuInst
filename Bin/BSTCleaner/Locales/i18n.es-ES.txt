@@ -1,0 +1,495 @@
+STRING_RESTART = Reiniciar
+
+STRING_LEARN_MORE = Aprender más
+
+STRING_APP_CRASH = Error en la aplicación
+
+STRING_64BIT = 64 bits
+
+STRING_WARNING = Advertencia
+
+STRING_PIE = Pie
+
+STRING_FOLDER = Carpeta
+
+STRING_CANNOT_INSTALL_0 = No se puede instalar @@STRING_PRODUCT_NAME@@ {0}
+
+STRING_RESTART_PC = Reiniciar el PC
+
+STRING_STATUS_COLLECTING_GUEST = Recopilando información de Android
+
+STRING_DOWNLOADING = Descargando
+
+STRING_CANT_USE_THIS_FOLDER = Desafortunadamente, la carpeta seleccionada no se puede usar para instalar @@STRING_PRODUCT_NAME@@
+
+STRING_ERROR_SENDING_REPORT = Error al enviar el informe
+
+STRING_SPACE_REQUIRED = Espacio necesario
+
+STRING_HYPERV_DISABLED_MESSAGE = @@STRING_PRODUCT_NAME@@ no se puede iniciar cuando Hyper-V está deshabilitado. Debe habilitar Microsoft Hyper-V desde el Panel de control de Windows y volver a intentarlo. Consulte estas preguntas frecuentes para conocer los pasos sobre cómo habilitarlo.
+
+STRING_COULDNT_RESTORE_UNUSABLE = @@STRING_PRODUCT_NAME@@ no pudo restaurarse a su estado anterior y podría haber quedado inutilizable.
+
+STRING_CHOOSE_AGAIN = Elegir de nuevo
+
+STRING_RETRY = Rever
+
+STRING_DISABLED_VT = @@STRING_PRODUCT_NAME@@ requiere que la virtualización asistida por hardware esté habilitada en su PC para un rendimiento óptimo. Consulte estas preguntas frecuentes para obtener instrucciones sobre cómo habilitarlo.
+
+STRING_MINIMIZE_INSTALLER = ¿Minimizar el instalador?
+
+STRING_PC_HAS_LESS_MEMORY = Su PC tiene menos de {0}GB de memoria requerida por @@STRING_PRODUCT_NAME@@ para ejecutarse.
+
+STRING_CANNOT_USE_FOLDER = No se puede usar la carpeta
+
+STRING_APP_NAME_WATERMARK = Escriba el nombre de la aplicación aquí
+
+STRING_FAILED_TO_RESTORE_OLD_DATA = @@STRING_PRODUCT_NAME@@ no puede recuperar tus antiguos datos.
+
+STRING_AUTO = Automático
+
+STRING_DOWNLOAD = Descargar
+
+STRING_BS_REQUIRES_SPACE_DRIVE_INSTALL = @@STRING_PRODUCT_NAME@@ requiere al menos {0} GB de espacio libre en disco en la unidad {1} para actualizar.
+
+STRING_SUBMIT = Enviar
+
+STRING_TOTAL_ATTACHMENT_COUNT_EXCEEDED_LIMIT = Deben adjuntarse menos de 10 archivos.
+
+NAME = Nombre
+
+STRING_CUSTOM = Personalizar la instalación
+
+STRING_CLEAN_BLUESTACKS = Estos limpiará completamente la existencia de @@STRING_PRODUCT_NAME@@ y los datos de juego guardados localmente.
+
+STRING_GAME_LAG = Juego lento
+
+STRING_VERSION_ALREADY_INSTALLED = La última versión ya está instalada
+
+STRING_APPLICATION_NAME = Nombre de la aplicación
+
+STRING_EXIT_INSTALLER = Salir del instalador
+
+STRING_SUBCATEGORY = Subcategoría
+
+STIRNG_ACCEPT_TNC = Aceptar los términos de uso
+
+STRING_INSTALLATION_ERROR = Error en la instalación
+
+STRING_STATUS_COLLECTING_HOST = Recopilando información del host
+
+STRING_REASON_FOR_UNINSTALL = Gracias por usar @@STRING_PRODUCT_NAME@@. Escribe aquí el motivo de la desinstalación:
+
+STRING_FINISHED = Terminado
+
+STRING_AGREE = Aceptar
+
+STRING_PROBLEM_TYPE = Tipo del problema
+
+STRING_STATUS_COLLECTING_PRODUCT = Recopilando información del producto
+
+STRING_CREATE = Crear
+
+STRING_SELECT_APP_NAME = Seleccionar nombre de la aplicación
+
+STRING_RESTART_NOW = Reiniciar ahora
+
+STRING_CANCEL = Cancelar
+
+ANDROID = Androide
+
+STRING_NO = No
+
+STRING_POST_OTS_FAILED_WARNING_MESSAGE = Comprueba tu conexión a Internet y vuelve a intentarlo.
+
+STRING_UNINSTALL_CURRENT_AND_REINSTALL = Por favor desinstale la versión actual y reinstale @@STRING_PRODUCT_NAME@@.
+
+STRING_0_MINS_LEFT = {0} minutos restantes
+
+STRING_WAITING_FOR_INTERNET = Esperando conexión a internet
+
+STRING_FOLDER_CANNOT_CONTAIN_FOLLOWING_SPECIAL_CHARS = La ruta seleccionada no puede contener ninguno de los siguientes caracteres:
+
+STRING_CLIENT_UNINSTALL = Desinstalando Cliente
+
+STRING_INSUFFICIENT_SPACE = Espacio en disco insuficiente
+
+STRING_CONTINUE = Continuar
+
+STRING_SELECT_FOLDER = Selecciona otra carpeta
+
+STRING_ROLLBACK_FAILED_SORRY_MESSAGE = Lo sentimos profundamente, pero tanto la actualización como la posterior reversión han fallado y ya no es posible restaurar @@STRING_PRODUCT_NAME@@ al estado en que se encontraba antes de que comenzara la actualización. Desafortunadamente, solo puede desinstalar la versión existente de @@STRING_PRODUCT_NAME@@ e instalar la última versión de @@STRING_PRODUCT_NAME@@ desde el sitio web.
+
+STRING_CLOSE = Cerrar
+
+STRING_THANKS_FOR_USING_BLUESTACKS = Gracias por usar @@STRING_PRODUCT_NAME@@
+
+STRING_CHECKING_YOUR_SYSTEM = Comprobando su sistema
+
+STRING_MINIMIZE_TOOLTIP = Minimizar
+
+STRING_INSTALLATION_ROLLBACK_COMPLETE = Rollback completado
+
+STRING_EXE_CRASH = Error de ejecución
+
+STRING_REPORT_SENT_SUCCESS = Informe enviado con éxito
+
+STRING_ERROR = Error
+
+STRING_INSTALLING_ENGINE = Instalando el Engine
+
+STRING_INSTALLATION_CANCEL_CONFIRMATION = Quisieras cancelar la instalación?
+
+STRING_SYSTEM_REQUIREMENTS_NOT_MET = El sistema no cuenta con los requisitos mínimos del sistema
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION_BAT_EXE = Los archivos con extensiones .bat y .exe no están permitidos.
+
+STRING_APP_DETAILS = Detalles de aplicación
+
+STRING_NOUGAT = Nougat
+
+STRING_INSTALLATION_FAILED = Desafortunadamente, no se pudo instalar @@STRING_PRODUCT_NAME@@.
+
+STRING_HOW_TO_TAKE_BACKUP = ¿Como tomar el Respaldo?
+
+STRING_BETA = Beta
+
+STRING_CHOOSE = Escoger
+
+STRING_APP_NAME = Introduzca el nombre de la aplicación
+
+STRING_HYPERV_OS_RELEASEID_WARNING = Esta versión de @@STRING_PRODUCT_NAME@@ requiere la versión 1903 de Windows o superior. Actualice Windows o desactive Hyper-V para instalar @@STRING_PRODUCT_NAME@@.
+
+STRING_LATEST_VERSION_INSTALLED = La última versión de @@STRING_PRODUCT_NAME@@ ya está instalada en tu PC.
+
+STRING_CREATE_SHORTCUTS = Creando accesos directos @@STRING_PRODUCT_NAME@@
+
+STRING_INSTALL_REQUIRES_ADMIN = Para instalar, @@STRING_PRODUCT_NAME@@ requiere privilegio de administrador de Windows. ¿Te gustaría concederlo para continuar con la instalación?
+
+STRING_CANNOT_FIND_GAME = Incapaz de encontrar un juego
+
+STRING_RECEIVE_EMAIL_NOTIFICATION = Reciba notificaciones por email
+
+STRING_OK = OK
+
+STRING_RESTART_TRY_AGAIN = ¿Podemos recomendar reiniciar su PC y volver a intentar la instalación?
+
+STRING_UNINSTALL_FINISHED = Desinstalado @@STRING_PRODUCT_NAME@@
+
+STRING_INSTALL_DONE = Instalación completa
+
+STRING_INSTALL_GAME_FAIL = Incapaz de instalar un juego
+
+STRING_UNINSTALL_TITLE = Desinstalar @@STRING_PRODUCT_NAME@@
+
+STRING_ATTACH_FILES = Adjuntar archivos
+
+STRING_INSTALL_FAIL = Instalación fallida
+
+STRING_READ_WHATS_NEW = Leer las novedades
+
+STRING_LOGCOLLECTOR_RUNNING = La herramienta de informe de problemas ya se está ejecutando.
+
+STRING_DESCRIBE_PROBLEM = Describa el problema
+
+STRING_TOTAL_ATTACHMENT_SIZE_EXCEEDED_LIMIT = El total de archivos adjuntos excede el límite máximo permitido de 25 MB. Por favor seleccione otro archivo.
+
+STRING_INSUFFICIENT_DISKSPACE = No es suficiente espacio en disco disponible. @@STRING_PRODUCT_NAME@@ requiere
+
+STRING_ERROR_OCCURED_DEPLOYING_FILES = @@STRING_PRODUCT_NAME@@ ha encontrado un error mientras estaba desplegando algunos archivos.
+
+STRING_HYPERV_COMPUTE_PLATFORM_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@ no puede iniciarse ya que la plataforma de cómputo Hyper-V no está habilitada en su PC.
+
+STRING_INSTALL_FINISH = Instalación finalizada
+
+STRING_CHECK_FAQ = Chequear nuestro FAQ
+
+STRING_DOWNLOAD_FAILED = Descarga fallida
+
+STRING_CANT_INSTALL_BLUESTACKS = No puedo instalar BlueStacks
+
+STRING_RESTART_MACHINE_PROMPT = Deseas reiniciar tu PC?
+
+STRING_PC_INSUFFICIENT_SPACE_WARNING = Desafortunadamente, su PC no tiene suficiente espacio en disco para actualizar BlueStacks.
+
+STRING_ERROR_CODE_COLON = Código de error:
+
+STRING_YES = sí
+
+STRING_INSTALLER = © 2011 hasta 2023 BlueStacks by now.gg, Inc. Todos los derechos reservados en todo el mundo
+
+STRING_RETRY_CONNECTION_ISSUE_TEXT1 = Inténtalo de nuevo.
+
+STRING_TRY_RESTARTING_MACHINE = Reinicia tu ordenador e inténtalo de nuevo
+
+STRING_SELECTED_DRIVE_INSUFFICIENT_DISKSPACE = Desafortunadamente, la unidad seleccionada no tiene suficiente espacio en disco para instalar @@STRING_PRODUCT_NAME@@.
+
+STRING_AFTER_DISK_SPACE_CONTINUE = Libere el espacio de disco necesario y vuelva a intentarlo.
+
+STRING_UPGRADE_FAILED = Error en la actualización
+
+STRING_INSUFFICIENT_MEMORY = Memoria insuficiente
+
+STRING_BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_BST_SUPPORT_UTILITY = Utilidad de soporte @@STRING_PRODUCT_NAME@@
+
+STRING_UNINSTALL_BLUESTACKS = Quieres desinstalar @@STRING_PRODUCT_NAME@@?
+
+STRING_BEFORE_CREATING_SETUP = @@STRING_PRODUCT_NAME@@ ya está instalado. Para crear una instancia {0}, @@STRING_PRODUCT_NAME@@ debe actualizarse a la última versión.
+
+STRING_ERROR_INSTALLING_BLUESTACKS = Error al instalar @@STRING_PRODUCT_NAME@@
+
+STRING_LAUNCH = Lanzamiento
+
+BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_DATA_PATH = Ruta de acceso a datos de @@STRING_PRODUCT_NAME@@
+
+STRING_ANTIVIRUS_PAUSE_INSTALLER =  Pause el antivirus de su PC si está interfiriendo con la instalación
+
+STRING_0_COMMA_1 = {0}, {1}
+
+NONE = Ninguna
+
+STRING_INSTALL_NOW = Instalar ahora
+
+STRING_CATEGORY = Categoría
+
+STRING_REPORT_A_PROBLEM = Reportar un problema
+
+STRING_SORRY_ERROR_INSTALLING_BLUESTACKS = Lo sentimos, parece que hubo un error al instalar @@STRING_PRODUCT_NAME@@.
+
+STRING_ONE_STEP_GO_ADDITIONAL_FILES = Un paso más y estas listo - se descargarán algunos archivos adicionales para crear una instancia {0}.
+
+STRING_AGREE_WITH_LICENSE = Se requiere su aceptación de nuestros Términos de uso para continuar.
+
+STRING_SELECT_AGAIN = Seleccionar de nuevo
+
+STRING_START_ENGINE_FAIL = El Engine no comenzó
+
+STRING_INSTALLING = Instalando
+
+STRING_32BIT = 32 bits
+
+STRING_OS_VERSION_NOT_SUPPORTED = @@STRING_PRODUCT_NAME@@ no está soportado en la versión de Windows instalada en esta PC.
+
+STRING_EXIT = Salir
+
+STRING_UPGRADE_NOT_SUPPORTED = Desafortunadamente, no es posible actualizar la versión existente de @@STRING_PRODUCT_NAME@@ a la última.
+
+STRING_INCOMPATIBLE_INSTALLER_STARTED = Esta Versión del instalador de @@STRING_PRODUCT_NAME@@ no es compatible con tu versión de Windows. Por favor descarga la versión {0} de @@STRING_PRODUCT_NAME@@ e intentalo de nuevo.
+
+STRING_INSTALLER_CANNOT_STOP_AFTER_START = Desafortunadamente, el proceso de instalación no se puede detener una vez que ha comenzado. Por favor espere hasta que se complete.
+
+STRING_INVALID_FILE = Archivo inválido
+
+STRING_STATUS_INITIAL = Iniciando recopilador
+
+STRING_ATTACHMENT_SIZE_EXCEEDED = Tamaño de archivo adjunto excedido
+
+STRING_UPGRADE_FROM_BS1_CLEAN_OK = Instalar nuevo
+
+STRING_INSTALLATION_ROLLBACK = Reversión de la instalación
+
+STRING_LATEST_VERSION = Estás en la última versión
+
+STRING_ATTACHMENT_COUNT_EXCEEDED = Se excedió el recuento de archivos adjuntos
+
+STRING_CHANGE_FOLDER = Cambiar carpeta
+
+STRING_CREATE_0_INSTANCE = ¿Crear una instancia {0}?
+
+STRING_BACK = Atras
+
+STRING_SOFTWARE_LICENSE = Licencia de Software
+
+STRING_SPACE_AVAILABLE = Espacio disponible
+
+STRING_BLACK_SCREEN = Pantalla negra
+
+STRING_UPGRADE_FROM_BS1_CLEAN_CANCEL = Mantener el viejo
+
+STRING_BLUESTACKS_INSTALLER = Instalador @@STRING_PRODUCT_NAME@@
+
+STRING_LOGCOLLECTOR_DESCRIPTION_WARNING = Ingrese más de 10 caracteres en la descripción
+
+STRING_INITIATING_PERFORMANCE_BOOST = Finalizar los pasos posteriores a la instalación
+
+STRING_UNFORTUNATELY_COULDNT_UPGRADE = No se pudo actualizar BlueStacks 5.
+
+STRING_HYPERV_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@ no puede iniciarse cuando Hyper-V está deshabilitado.
+
+STRING_INCOMPATIBLE_INSTALLER = Instalador incompatible
+
+STRING_UNINSTALL = Desinstalar
+
+STRING_ADDITIONAL_FILES_DOWNLOAD_INSTANCE = @@STRING_PRODUCT_NAME@@ ya está instalado. Para crear una instancia {0}, se descargarán algunos archivos adicionales.
+
+STRING_PREINSTALL_FAIL = Lamentablemente, tu PC no cumple los requisitos mínimos para instalar @@STRING_PRODUCT_NAME@@.
+
+STRING_UPGRADE_NOW = Actualizar ahora
+
+STRING_0_OF_1 = {0} de {1}
+
+STRING_SUBMIT_REPORT = Enviar reporte
+
+STRING_OTHER_REASON = Otros motivos o información como el nombre del juego, etc.
+
+STRING_ENGINE_UNINSTALL = Desisntalando Motor
+
+STRING_STATUS_SENDING = Enviando informe del problema
+
+STRING_CONFLICT_WITH_OTHERS = Conflicto con otros programas
+
+STRING_INSTALLATION_START_WHEN_DOWNLOAD_FINISHES = La instalación comenzará tan pronto como se complete la descarga.
+
+STRING_YOUR_EMAIL = Tu correo electrónico
+
+STRING_BS_CANNOT_INSTALL_64_ON_32 = @@STRING_PRODUCT_NAME@@ no puede instalar la versión de 64 bits de Android porque está utilizando Windows de 32 bits.
+
+STRING_PRE_INSTALL_CHECKS = Comprobando los requisitos del sistema
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION = El archivo que estás intentando adjuntar no es una imagen. Por favor, adjunta una captura de pantalla del problema y vuelve a intentarlo.
+
+STRING_CONTINUE_IN_BACKGROUND = ¿Te gustaría seguir descargando @@STRING_PRODUCT_NAME@@ en segundo plano?
+
+STRING_ADMINISTRATIVE_RIGHTS_REQUIRED = Se requiere privilegio de administrador
+
+STRING_PROMPT = No se ha podido enviar el informe del problema. Un archivo llamado BlueStacks-Support.zip se ha creado en el escritorio. Por favor, envíe este archivo junto con una breve descripción de su problema a support@bluestacks.com.
+
+VERSION = Versión
+
+STRING_INSTALL_ENGINE_FAIL = Incapaz de instalar el Engine
+
+STRING_BST_INSTALLER_ALREADY_RUNNING = Otra instancia del instalador de @@STRING_PRODUCT_NAME@@ ya se está ejecutando.
+
+STRING_UPDATE_SETTING = Actualizar
+
+STRING_EXTRACTING_FILES = Extrayendo archivos
+
+STRING_FREE_DISK_SPACE = ¿Cómo ejecutar la utilidad de limpieza de disco?
+
+STRING_INSTALL = Instalar
+
+STRING_ERROR_WHILE_DOWNLOADING_BS = Hubo un error al intentar descargar @@STRING_PRODUCT_NAME@@.
+
+STRING_SELECT = Seleccionar
+
+STRING_OLD_INSTALLATION_INTERFERING = Parece que una instalación existente de @@STRING_PRODUCT_NAME@@ está interfiriendo con el intento actual de instalar @@STRING_PRODUCT_NAME@@.
+
+STRING_OUTLINE_ISSUE = Por favor describa el problema debajo, así podremos entender como ayudarte.
+
+STRING_FINISH_REPORT_SEND = Su informe del problema ha sido enviado. Nos pondremos en contacto con usted pronto.
+
+STRING_STATUS_ARCHIVING = Creando archivo de ayuda
+
+STRING_PC_MIN_REQ_UNMET_HOWEVER_PLAY_ON_X = Su PC no cumple con los requisitos mínimos del sistema para instalar @@STRING_PRODUCT_NAME@@. Sin embargo, puede jugar sus juegos favoritos de Android en línea en nuestra nube usando BlueStacks X.
+
+STRING_PLAY_ON_CLOUD = Jugar en la nube
+
+STRING_NOT_ENOUGH_SPACE_PLAY_X = @@STRING_PRODUCT_NAME@@ requiere al menos {0} GB de espacio libre en disco en la unidad {1} para instalar. Puede liberar el espacio en disco requerido y volver a intentarlo, o cambiar la ruta para instalar en otra unidad, o jugar en línea en nuestra nube usando BlueStacks X.
+
+STRING_BSX_ON_GL_UNSUPPORTED = Su tarjeta gráfica o sus controladores no son compatibles con @@STRING_PRODUCT_NAME@@. Actualice sus controladores y vuelva a intentar la instalación. También puede jugar sus juegos favoritos de Android en línea en nuestra nube usando BlueStacks X.
+
+
+STRING_PC_MIN_REQ_UNMET = Su PC no cumple con los requisitos mínimos del sistema para instalar @@STRING_PRODUCT_NAME@@.
+
+STRING_NOT_ENOUGH_SPACE = @@STRING_PRODUCT_NAME@@ requiere al menos {0} GB de espacio libre en disco en la unidad {1} para instalar. Puede liberar el espacio en disco necesario y volver a intentarlo, o cambiar la ruta para instalar en otra unidad.
+
+STRING_GL_UNSUPPORTED = Su tarjeta gráfica o sus controladores no son compatibles con @@STRING_PRODUCT_NAME@@. Actualice sus controladores y vuelva a intentar la instalación.
+
+STRING_INTERNET_UNSTABLE = Su conexión a Internet no es estable. Por favor, compruebe la conexión y vuelva a intentarlo.
+
+STRING_CHANGE_PATH = Cambiar ubicación
+
+STRING_MIN_REQ_FAILED_0 = Su sistema no cumple con los requisitos mínimos para ejecutar {0}.
+
+STRING_INSTALL_32BIT = Instale la versión @@STRING_PRODUCT_NAME@@ {0}.
+
+STRING_OTHER = Otro
+
+STRING_RETRY_BANNER_MESSAGE = Ocurrió un error al extraer algunos archivos. Vuelva a intentarlo o {0} para obtener ayuda si el problema persiste.
+
+STRING_CONTACT_US = Contáctenos
+
+STRING_ABORT = Abortar
+
+STRING_ANDROID11 = Android 11
+
+STRING_BACKUP_AND_RESTORE = Backup & Restaurar
+
+STRING_BACKUP_PROGRESS = Respaldo en proceso
+
+STRING_BACKUP_WARNING = No reinicie ni apague su computadora hasta que se complete el proceso.
+
+STRING_BACKUP_SUCCESSFUL_HEADER = Copia de seguridad exitosa
+
+STRING_BACKUP_SUCCESSFUL_BODY = Tus datos fueron respaldados con éxito en la siguiente carpeta:
+
+STRING_LAUNCH_PLAYER = Lanzar @@STRING_PRODUCT_NAME@@
+
+STRING_CANCEL_BACKUP = ¿Cancelar la copia de seguridad?
+
+STRING_CANCEL_BACKUP_INFO = ¿Está seguro de que desea cancelar la copia de seguridad? Puede volver a hacerlo más tarde desde la configuración.
+
+STRING_DONT_CANCEL = No cancelar
+
+STRING_RESTORING_BACKUP = Restauración de datos
+
+STRING_SELECT_BACKUP = Seleccionar copia de seguridad
+
+STRING_SELECT_RESTORE = Seleccione restaurar
+
+STRING_INCORRECT_PATH = Se eligió una carpeta incorrecta. Seleccione la carpeta de copia de seguridad correcta que desea restaurar y vuelva a intentarlo.
+
+STRING_RESTORE_FAILURE = Restaurar sin éxito
+
+STRING_RESTORE_FAIL_INFO = Algo salió mal al restaurar sus datos. Inténtalo de nuevo.
+
+STRING_COULD_NOT_RESOTRE_INSUFFICIENT_SPACE = Se requiere al menos {0} GB de espacio en disco para restaurar sus datos. Libere algo de espacio en disco y vuelva a intentarlo.
+
+STRING_BACKUP_FAILED = Respaldo fallido
+
+STRING_BACKUP_FAIL_INFO = Algo salió mal al hacer una copia de seguridad de sus datos. Inténtalo de nuevo.
+
+STRING_COULD_NOT_BACKUP_INSUFFICIENT_SPACE = Se requiere al menos {0} GB de espacio en disco para hacer una copia de seguridad de sus datos. Cambie la ubicación de la unidad o libere espacio.
+
+STRING_CHANGE_LOCATION = Cambiar ubicación
+
+STRING_RESTORE_SUCCESSFUL_HEADER = Restaurar con éxito
+
+STRING_RESTORE_SUCCESSFUL_BODY = Tus datos fueron restaurados exitosamente.
+
+STRING_UNABLE_TO_INSTALL = Incapaz de instalar
+
+STRING_VALID_CERT_ERROR = Las actualizaciones esenciales de Windows necesarias para la instalación no están disponibles. Lea el artículo para aprender cómo resolver esto.
+
+STRING_READ_ARTICLE = Lee el artículo
+
+STRING_SELECT_BACKUP_FOLDER = Selecciona una carpeta en donde quieras crear el respaldo
+
+STRING_BEFORE_YOU_RESTORE = Antes de restaurar
+
+STRING_RESTORE_FAIL_WARNING = Tenga en cuenta que la restauración de datos de una copia de seguridad de una versión anterior de @@STRING_PRODUCT_NAME@@ a la versión actual puede no tener éxito.
+
+STRING_RESTORE_NOT_PERMITTED = No se admite la restauración de una copia de seguridad más reciente a una versión anterior de @@STRING_PRODUCT_NAME@@.
+
+STRING_BACKUP_ERROR_INVALID_PATH_SELECTED = Algo salió mal al hacer una copia de seguridad de sus datos. Seleccione una carpeta diferente y vuelva a intentarlo.
+
+STRING_BACKUP_UNSUCCESSFUL = Respaldo fallido
+STRING_CONTACT_TECHNICAL_SUPPORT = Puede ponerse en contacto con el soporte técnico directamente para resolver su problema
+
+STRING_PREFER_BS4 = Preferir BS4
+
+STRING_NECESSARY_ACTIONS = Espere mientras BlueStacks realiza las acciones necesarias
+
+STRING_RESTART_LATER = reiniciar más tarde
+
+STRING_PROCESS_COMPLETED = El proceso se completó con éxito.
+
+STRING_RESTART_FOR_CHANGES = ¿Te gustaría reiniciar tu PC para que los cambios surtan efecto?
+
+STRING_UPDATE_WIN7_TITLE = Actualizar a la última versión de Windows 7
+
+STRING_UPDATE_WIN7_MESSAGE = Para garantizar que su sistema cumpla con los requisitos mínimos, debe instalar Windows 7 Service Pack 1. Consulte el artículo para conocer los pasos detallados.

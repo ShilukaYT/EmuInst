@@ -1,0 +1,495 @@
+STRING_RESTART = 재시작
+
+STRING_LEARN_MORE = 더 알아보기
+
+STRING_APP_CRASH = 앱 강제 종료
+
+STRING_64BIT = 64 비트
+
+STRING_WARNING = 경고
+
+STRING_PIE = Pie
+
+STRING_FOLDER = 폴더
+
+STRING_CANNOT_INSTALL_0 = @@STRING_PRODUCT_NAME@@ {0}을 설치할 수 없습니다.
+
+STRING_RESTART_PC = 컴퓨터 재시작
+
+STRING_STATUS_COLLECTING_GUEST = 안드로이드 정보 수집 중
+
+STRING_DOWNLOADING = 다운로드 중
+
+STRING_CANT_USE_THIS_FOLDER = 선택한 폴더를 사용하여@@STRING_PRODUCT_NAME@@을 설치할 수 없습니다.
+
+STRING_ERROR_SENDING_REPORT = 보고서 전송 중 오류가 발생했습니다.
+
+STRING_SPACE_REQUIRED = 필요 설치 공간
+
+STRING_HYPERV_DISABLED_MESSAGE = Hyper-V가 비활성화되면 @@STRING_PRODUCT_NAME@@을 시작할 수 없습니다. 윈도우 제어판에서 마이크로소프트 Hyper-V를 활성화하고 다시 시도해야 합니다. 활성화 방법에 대한 단계는 이 FAQ를 참조하십시오.
+
+STRING_COULDNT_RESTORE_UNUSABLE = @@STRING_PRODUCT_NAME@@을 이전 상태로 복원 할 수 없으며 사용할 수 없습니다.
+
+STRING_CHOOSE_AGAIN = 다시 선택
+
+STRING_RETRY = 다시 시도
+
+STRING_DISABLED_VT = @@STRING_PRODUCT_NAME@@는 최적의 성능을 위해 PC에서 하드웨어 지원 가상화를 활성화해야 합니다. 활성화 방법에 대한 가이드는 이 FAQ를 참조하십시오.
+
+STRING_MINIMIZE_INSTALLER = 설치 프로그램을 최소화하시겠습니까?
+
+STRING_PC_HAS_LESS_MEMORY = 유저분의 PC는 @@STRING_PRODUCT_NAME@@이 실행하는 데 필요한 {0} GB 미만의 메모리가 있습니다.
+
+STRING_CANNOT_USE_FOLDER = 폴더를 사용할 수 없습니다
+
+STRING_APP_NAME_WATERMARK = 여기에 앱 이름을 입력하십시오.
+
+STRING_FAILED_TO_RESTORE_OLD_DATA = @@STRING_PRODUCT_NAME@@이 이전 데이터를 복원할 수 없습니다.
+
+STRING_AUTO = 자동
+
+STRING_DOWNLOAD = 다운로드
+
+STRING_BS_REQUIRES_SPACE_DRIVE_INSTALL = @@STRING_PRODUCT_NAME@@ 업데이트하려면 {1} 드라이브에 최소 {0} GB의 여유 디스크 공간이 필요합니다.
+
+STRING_SUBMIT = 제출
+
+STRING_TOTAL_ATTACHMENT_COUNT_EXCEEDED_LIMIT = 최대 10개까지 파일을 첨부할 수 있습니다.
+
+NAME = 이름
+
+STRING_CUSTOM = 사용자 설치
+
+STRING_CLEAN_BLUESTACKS = 이렇게하면 기존 @@STRING_PRODUCT_NAME@@과 로컬에 저장된 게임 데이터가 완전히 지워집니다.
+
+STRING_GAME_LAG = 게임 플레이가 느림
+
+STRING_VERSION_ALREADY_INSTALLED = 이미 최신버전으로 설치되었습니다.
+
+STRING_APPLICATION_NAME = 앱 이름
+
+STRING_EXIT_INSTALLER = 설치 프로그램 종료
+
+STRING_SUBCATEGORY = 하위 범주
+
+STIRNG_ACCEPT_TNC = 이용약관 동의
+
+STRING_INSTALLATION_ERROR = 설치 오류
+
+STRING_STATUS_COLLECTING_HOST = 호스트 정보 수집 중
+
+STRING_REASON_FOR_UNINSTALL = @@STRING_PRODUCT_NAME@@을 설치 제거한 이유를 알려주세요.
+
+STRING_FINISHED = 완료
+
+STRING_AGREE = 동의
+
+STRING_PROBLEM_TYPE = 문제 형태
+
+STRING_STATUS_COLLECTING_PRODUCT = 제품 정보 수집 중
+
+STRING_CREATE = 활동
+
+STRING_SELECT_APP_NAME = 앱 이름 선택
+
+STRING_RESTART_NOW = 지금 재시작
+
+STRING_CANCEL = 취소
+
+ANDROID = 안드로이드
+
+STRING_NO = 아니요
+
+STRING_POST_OTS_FAILED_WARNING_MESSAGE = 인터넷 연결을 확인하고 다시 시도해 주세요.
+
+STRING_UNINSTALL_CURRENT_AND_REINSTALL = 현재 빌드를 제거하고 @@STRING_PRODUCT_NAME@@을 다시 설치하십시오.
+
+STRING_0_MINS_LEFT = {0} 분 남음
+
+STRING_WAITING_FOR_INTERNET = 인터넷 연결 대기 중
+
+STRING_FOLDER_CANNOT_CONTAIN_FOLLOWING_SPECIAL_CHARS = 선택한 경로에는 다음 문자가 포함될 수 없습니다.
+
+STRING_CLIENT_UNINSTALL = 프로그램 제거
+
+STRING_INSUFFICIENT_SPACE = 디스크 공간 부족
+
+STRING_CONTINUE = 계속하기
+
+STRING_SELECT_FOLDER = 다른 폴더를 선택해 주세요.
+
+STRING_ROLLBACK_FAILED_SORRY_MESSAGE = 유감스럽지만 업그레이드와 후속 롤백 모두 실패했습니다. 업그레이드가 시작되기 전의 상태로 @@STRING_PRODUCT_NAME@@을 복원할 수 없습니다.  기존 버전의 @@STRING_PRODUCT_NAME@@을 제거하고 웹사이트에서 @@STRING_PRODUCT_NAME@@ 최신 버전을 설치해 사용해 주세요.
+
+STRING_CLOSE = 닫기
+
+STRING_THANKS_FOR_USING_BLUESTACKS = @@STRING_PRODUCT_NAME@@을 이용해 주셔서 감사합니다.
+
+STRING_CHECKING_YOUR_SYSTEM = 시스템 확인
+
+STRING_MINIMIZE_TOOLTIP = 최소화
+
+STRING_INSTALLATION_ROLLBACK_COMPLETE = 롤백 완료
+
+STRING_EXE_CRASH = 실행 파일 강제 종료
+
+STRING_REPORT_SENT_SUCCESS = 성공적으로 전송되었습니다
+
+STRING_ERROR = 오류
+
+STRING_INSTALLING_ENGINE = 엔진 설치
+
+STRING_INSTALLATION_CANCEL_CONFIRMATION = 설치를 취소하시겠습니까?
+
+STRING_SYSTEM_REQUIREMENTS_NOT_MET = 최소 시스템 요구 사항이 충족되지 않습니다.
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION_BAT_EXE = 확장자가 .bat 및 .exe 인 파일은 허용되지 않습니다.
+
+STRING_APP_DETAILS = 앱 세부사항
+
+STRING_NOUGAT = Nougat
+
+STRING_INSTALLATION_FAILED = 안탑깝게도 @@STRING_PRODUCT_NAME@@을 설치할 수 없습니다.
+
+STRING_HOW_TO_TAKE_BACKUP = 어떻게 백업하나요?
+
+STRING_BETA = 베타
+
+STRING_CHOOSE = 선택
+
+STRING_APP_NAME = 앱 이름을 입력합니다
+
+STRING_HYPERV_OS_RELEASEID_WARNING = 이 버전의 @@STRING_PRODUCT_NAME@@에는 Windows 버전 1903 이상이 필요합니다. @@STRING_PRODUCT_NAME@@을 설치하려면 윈도우를 업데이트하거나 Hyper-V를 비활성화해 주세요.
+
+STRING_LATEST_VERSION_INSTALLED = 이미 @@STRING_PRODUCT_NAME@@ 최신버전이 설치되어 있습니다.
+
+STRING_CREATE_SHORTCUTS = @@STRING_PRODUCT_NAME@@ 바로가기 생성 중
+
+STRING_INSTALL_REQUIRES_ADMIN = 설치하려면 @@STRING_PRODUCT_NAME@@이 Windows 관리자 권한이 있어야합니다. 계속 진행 하시겠습니까?
+
+STRING_CANNOT_FIND_GAME = 게임을 찾을 수 없습니다.
+
+STRING_RECEIVE_EMAIL_NOTIFICATION = 이메일 알림 받기
+
+STRING_OK = 확인
+
+STRING_RESTART_TRY_AGAIN = PC를 재부팅하고 설치를 다시 시도 해주실 것을 권장합니다.
+
+STRING_UNINSTALL_FINISHED = 삭제 완료
+
+STRING_INSTALL_DONE = 설치 완료
+
+STRING_INSTALL_GAME_FAIL = 게임을 설치할 수 없습니다.
+
+STRING_UNINSTALL_TITLE = @@STRING_PRODUCT_NAME@@ 삭제하기
+
+STRING_ATTACH_FILES = 파일 첨부
+
+STRING_INSTALL_FAIL = 설치 실패
+
+STRING_READ_WHATS_NEW = 새로운 소식 보기
+
+STRING_LOGCOLLECTOR_RUNNING = 이미 문제 보고 툴이 실행 중입니다
+
+STRING_DESCRIBE_PROBLEM = 문제 내용
+
+STRING_TOTAL_ATTACHMENT_SIZE_EXCEEDED_LIMIT = 첨부 된 총 파일이 최대 허용 한도 인 25MB를 초과합니다. 다른 파일을 선택해 주세요.
+
+STRING_INSUFFICIENT_DISKSPACE = 디스크 저장 공간이 부족합니다. @@STRING_PRODUCT_NAME@@은 다음 저장 공간이 필요합니다:
+
+STRING_ERROR_OCCURED_DEPLOYING_FILES = 일부 파일을 배포하는 동안 @@STRING_PRODUCT_NAME@@에서 오류가 발생했습니다.
+
+STRING_HYPERV_COMPUTE_PLATFORM_DISABLED_WARNING = PC에서 Hyper-V를 사용할수 없어서 @@STRING_PRODUCT_NAME@@을 (를) 시작할 수 없습니다.
+
+STRING_INSTALL_FINISH = 설치 완료
+
+STRING_CHECK_FAQ = FAQ 확인
+
+STRING_DOWNLOAD_FAILED = 다운로드 실패
+
+STRING_CANT_INSTALL_BLUESTACKS = BlueStacks을 설치할 수 없습니다.
+
+STRING_RESTART_MACHINE_PROMPT = 컴퓨터를 재시작하시겠습니까?
+
+STRING_PC_INSUFFICIENT_SPACE_WARNING = PC에 블루스택을 업데이트 할 충분한 디스크 공간이 없습니다.
+
+STRING_ERROR_CODE_COLON = 에러 코드:
+
+STRING_YES = 네
+
+STRING_INSTALLER = © 2011 ~ 2023 BlueStacks by now.gg, Inc. 전 세계 모든 권리 보유
+
+STRING_RETRY_CONNECTION_ISSUE_TEXT1 = 재시도
+
+STRING_TRY_RESTARTING_MACHINE = 컴퓨터를 재시작 하십시오.
+
+STRING_SELECTED_DRIVE_INSUFFICIENT_DISKSPACE = 아쉽게도 선택한 드라이브에 @@STRING_PRODUCT_NAME@@을 설치하기에 충분한 디스크 공간이 없습니다.
+
+STRING_AFTER_DISK_SPACE_CONTINUE = 필요한 디스크 공간을 확보하고 다시 시도해 주세요.
+
+STRING_UPGRADE_FAILED = 업그레이드 실패
+
+STRING_INSUFFICIENT_MEMORY = 메모리가 부족합니다.
+
+STRING_BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_BST_SUPPORT_UTILITY = @@STRING_PRODUCT_NAME@@ 지원 유틸리티
+
+STRING_UNINSTALL_BLUESTACKS = @@STRING_PRODUCT_NAME@@을 제거 하시겠습니까?
+
+STRING_BEFORE_CREATING_SETUP = @@STRING_PRODUCT_NAME@@이 이미 설치되어 있습니다. {0} 인스턴스를 만들려면 @@STRING_PRODUCT_NAME@@을 최신 버전으로 업데이트 해야 합니다.
+
+STRING_ERROR_INSTALLING_BLUESTACKS = @@STRING_PRODUCT_NAME@@ 설치 오류
+
+STRING_LAUNCH = 시작
+
+BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_DATA_PATH = @@STRING_PRODUCT_NAME@@ 데이터 경로
+
+STRING_ANTIVIRUS_PAUSE_INSTALLER =  설치를 방해하는 경우 PC 바이러스 백신 일시 중지해 주세요.
+
+STRING_0_COMMA_1 = {0}, {1}
+
+NONE = 없음
+
+STRING_INSTALL_NOW = 지금 설치하기
+
+STRING_CATEGORY = 카테고리
+
+STRING_REPORT_A_PROBLEM = 문제 보고
+
+STRING_SORRY_ERROR_INSTALLING_BLUESTACKS = 죄송합니다. @@STRING_PRODUCT_NAME@@을 설치 중 오류가 발생했습니다.
+
+STRING_ONE_STEP_GO_ADDITIONAL_FILES = 마지막 단계입니다! {0} 인스턴스를 만들기 위해 몇 가지 추가 파일이 다운로드됩니다.
+
+STRING_AGREE_WITH_LICENSE = 계속 진행하려면 사용 약관에 동의해야 합니다.
+
+STRING_SELECT_AGAIN = 다시 선택하기
+
+STRING_START_ENGINE_FAIL = 엔진 시작 실패
+
+STRING_INSTALLING = 설치 중
+
+STRING_32BIT = 32 비트
+
+STRING_OS_VERSION_NOT_SUPPORTED = @@STRING_PRODUCT_NAME@@은 현 PC에서 실행중인 윈도우 버전에 지원되지 않습니다.
+
+STRING_EXIT = 종료
+
+STRING_UPGRADE_NOT_SUPPORTED = 아쉽게도 @@STRING_PRODUCT_NAME@@의 기존 버전을 최신 버전으로 업그레이드 할 수 없습니다.
+
+STRING_INCOMPATIBLE_INSTALLER_STARTED = 이 버전의 @@STRING_PRODUCT_NAME@@ 설치프로그램은 사용중인 윈도우 버전과 호환되지 않습니다. @@STRING_PRODUCT_NAME@@의 {0} 버전을 다운로드하고 다시 시도해 주세요.
+
+STRING_INSTALLER_CANNOT_STOP_AFTER_START = 설치 프로세스는 일단 시작되면 중지될 수 없습니다. 완료될 때까지 기다려주세요.
+
+STRING_INVALID_FILE = 유효하지 않은 파일
+
+STRING_STATUS_INITIAL = 수집 시작중
+
+STRING_ATTACHMENT_SIZE_EXCEEDED = 첨부 파일 크기 초과
+
+STRING_UPGRADE_FROM_BS1_CLEAN_OK = 설치하기
+
+STRING_INSTALLATION_ROLLBACK = 설치 복구
+
+STRING_LATEST_VERSION = 최신 버전을 사용하고 있습니다.
+
+STRING_ATTACHMENT_COUNT_EXCEEDED = 첨부 파일 수 초과
+
+STRING_CHANGE_FOLDER = 폴더 변경
+
+STRING_CREATE_0_INSTANCE = {0} 인스턴스를 만드시겠습니까?
+
+STRING_BACK = 뒤로가기
+
+STRING_SOFTWARE_LICENSE = 소프트웨어 라이센스
+
+STRING_SPACE_AVAILABLE = 사용 가능 공간
+
+STRING_BLACK_SCREEN = 검은 화면
+
+STRING_UPGRADE_FROM_BS1_CLEAN_CANCEL = 현재 버전 유지
+
+STRING_BLUESTACKS_INSTALLER = @@STRING_PRODUCT_NAME@@ 설치 프로그램
+
+STRING_LOGCOLLECTOR_DESCRIPTION_WARNING = 설명에 10 자 이상을 입력해주세요.
+
+STRING_INITIATING_PERFORMANCE_BOOST = 설치 후 완료 단계
+
+STRING_UNFORTUNATELY_COULDNT_UPGRADE = BlueStacks 5를 업데이트할 수 없습니다.
+
+STRING_HYPERV_DISABLED_WARNING = Hyper-V가 비활성화되어 있으면 @@STRING_PRODUCT_NAME@@을 시작할 수 없습니다.
+
+STRING_INCOMPATIBLE_INSTALLER = 호환되지 않는 설치 프로그램
+
+STRING_UNINSTALL = 삭제
+
+STRING_ADDITIONAL_FILES_DOWNLOAD_INSTANCE = @@STRING_PRODUCT_NAME@@이 이미 설치되어 있습니다. {0} 인스턴스를 생성하기 위해 몇 가지 추가 파일이 다운로드됩니다.
+
+STRING_PREINSTALL_FAIL = 귀하의 PC는 @@STRING_PRODUCT_NAME@@을 설치하기 위한 최소 요구 사항을 충족시키지 못합니다.
+
+STRING_UPGRADE_NOW = 지금 업데이트
+
+STRING_0_OF_1 = {1} 중 {0}
+
+STRING_SUBMIT_REPORT = 문제 보고하기
+
+STRING_OTHER_REASON = 다른 원인이나 게임 이름과 같은 기타 정보.
+
+STRING_ENGINE_UNINSTALL = 엔진 제거
+
+STRING_STATUS_SENDING = 문제 보고 중
+
+STRING_CONFLICT_WITH_OTHERS = 다른 소프트웨어와 충돌
+
+STRING_INSTALLATION_START_WHEN_DOWNLOAD_FINISHES = 다운로드가 완료되면 바로 설치가 시작됩니다.
+
+STRING_YOUR_EMAIL = 이메일 주소
+
+STRING_BS_CANNOT_INSTALL_64_ON_32 = 현재 Windows 32비트를 사용하고 있어  안드로이드 64비트 버전의 @@STRING_PRODUCT_NAME@@를 설치할 수 없습니다.
+
+STRING_PRE_INSTALL_CHECKS = 설치를 위한 시스템 확인
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION = 첨부하려는 파일은 이미지가 아닙니다. 관련 스크린샷을 첨부하고 다시 시도해주세요.
+
+STRING_CONTINUE_IN_BACKGROUND = 백그라운드에서 @@STRING_PRODUCT_NAME@@을 계속 다운로드하시겠습니까?
+
+STRING_ADMINISTRATIVE_RIGHTS_REQUIRED = 관리자 권한 필요
+
+STRING_PROMPT = 문제를 보고할 수 없습니다. BlueStacks-Support.zip라는 이름의 파일이 바탕 화면에 생성되었습니다. 설명과 함께 해당 파일을 이메일 주소 support@bluestacks.com으로 보내주세요.
+
+VERSION = 버전
+
+STRING_INSTALL_ENGINE_FAIL = 엔진을 설치할 수 없습니다.
+
+STRING_BST_INSTALLER_ALREADY_RUNNING = @@STRING_PRODUCT_NAME@@ 설치 프로그램의 또 다른 인스턴스가 이미 실행되고 있습니다.
+
+STRING_UPDATE_SETTING = 업데이트
+
+STRING_EXTRACTING_FILES = 파일 압축 풀기
+
+STRING_FREE_DISK_SPACE = 디스크 정리 유틸리티를 실행하는 방법은 무엇입니까?
+
+STRING_INSTALL = 설치
+
+STRING_ERROR_WHILE_DOWNLOADING_BS = @@STRING_PRODUCT_NAME@@을 다운로드하는 중에 오류가 발생했습니다.
+
+STRING_SELECT = 선택
+
+STRING_OLD_INSTALLATION_INTERFERING = @@STRING_PRODUCT_NAME@@의 기존 설치가 @@STRING_PRODUCT_NAME@@을 설치하려는 현재의 시도를 방해하고 있는 것으로 보입니다.
+
+STRING_OUTLINE_ISSUE = 아래에 문제점에 관해 설명 부탁드립니다.
+
+STRING_FINISH_REPORT_SEND = 문제를 보고하였습니다. 곧 연락 드리겠습니다.
+
+STRING_STATUS_ARCHIVING = 지원 아카이브 생성 중
+
+STRING_PC_MIN_REQ_UNMET_HOWEVER_PLAY_ON_X = PC가 @@STRING_PRODUCT_NAME@@을 설치하기 위한 최소 시스템 요구 사항을 충족하지 않습니다. 그러나 블루스택 X를 사용하여 클라우드에서 좋아하는 안드로이드 게임을 플레이할 수 있습니다.
+
+STRING_PLAY_ON_CLOUD = 클라우드에서 플레이
+
+STRING_NOT_ENOUGH_SPACE_PLAY_X = @@STRING_PRODUCT_NAME@@을 설치하려면 {1} 드라이브에 최소 {0} GB의 여유 디스크 공간이 필요합니다. 필요한 디스크 공간을 확보하고 다시 시도하거나 경로를 변경하여 다른 드라이브에 설치하거나 블루스택 X를 사용하여 클라우드에서 온라인으로 플레이할 수 있습니다.
+
+STRING_BSX_ON_GL_UNSUPPORTED = 그래픽 카드 또는 해당 드라이버가 @@STRING_PRODUCT_NAME@@과 호환되지 않습니다. 드라이버를 업데이트하고 설치를 다시 시도하십시오. 블루스택 X를 사용하여 클라우드에서 좋아하는 안드로이드 게임을 온라인에서 플레이할 수도 있습니다.
+
+
+STRING_PC_MIN_REQ_UNMET = PC가 @@STRING_PRODUCT_NAME@@을 설치하기 위한 최소 시스템 요구 사항을 충족하지 않습니다.
+
+STRING_NOT_ENOUGH_SPACE = @@STRING_PRODUCT_NAME@@을 설치하려면 {1} 드라이브에 최소 {0}GB의 여유 디스크 공간이 필요합니다. 필요한 디스크 공간을 확보하고 다시 시도하거나 경로를 변경하여 다른 드라이브에 설치할 수 있습니다.
+
+STRING_GL_UNSUPPORTED = 그래픽 카드 또는 드라이버가 @@STRING_PRODUCT_NAME@@와 호환되지 않습니다. 드라이버를 업데이트하고 설치를 다시 시도하십시오.
+
+STRING_INTERNET_UNSTABLE = 인터넷 연결이 안정적이지 않습니다. 연결을 확인하고 다시 시도하십시오.
+
+STRING_CHANGE_PATH = 경로 변경
+
+STRING_MIN_REQ_FAILED_0 = 시스템이 {0}을 실행하기 위한 최소 요구 사항을 충족하지 않습니다.
+
+STRING_INSTALL_32BIT = @@STRING_PRODUCT_NAME@@ {0} 버전을 설치하세요.
+
+STRING_OTHER = 기타
+
+STRING_RETRY_BANNER_MESSAGE = 일부 파일을 추출하는 동안 오류가 발생했습니다. 문제가 지속되면 다시 시도하거나 {0} 도움을 받으십시오.
+
+STRING_CONTACT_US = 문의하기
+
+STRING_ABORT = 중단
+
+STRING_ANDROID11 = 안드로이드 11
+
+STRING_BACKUP_AND_RESTORE = 백업 & 복구
+
+STRING_BACKUP_PROGRESS = 백업 진행 중
+
+STRING_BACKUP_WARNING = 프로세스가 완료될 때까지 컴퓨터를 다시 시작하거나 종료하지 마십시오.
+
+STRING_BACKUP_SUCCESSFUL_HEADER = 백업 성공
+
+STRING_BACKUP_SUCCESSFUL_BODY = 데이터가 다음 폴더에 성공적으로 백업되었습니다.
+
+STRING_LAUNCH_PLAYER = @@STRING_PRODUCT_NAME@@ 실행
+
+STRING_CANCEL_BACKUP = 백업을 취소하시겠습니까?
+
+STRING_CANCEL_BACKUP_INFO = 백업을 취소하시겠습니까? 나중에 설정에서 다시 할 수 있습니다.
+
+STRING_DONT_CANCEL = 취소하지 마십시오.
+
+STRING_RESTORING_BACKUP = 데이터 복원
+
+STRING_SELECT_BACKUP = 백업 선택
+
+STRING_SELECT_RESTORE = 복원 선택
+
+STRING_INCORRECT_PATH = 잘못된 폴더가 선택되었습니다. 복원하려는 올바른 백업 폴더를 선택하고 다시 시도하십시오.
+
+STRING_RESTORE_FAILURE = 복원 실패
+
+STRING_RESTORE_FAIL_INFO = 데이터를 복원하는 동안 문제가 발생했습니다. 다시 시도해 주세요.
+
+STRING_COULD_NOT_RESOTRE_INSUFFICIENT_SPACE = 데이터를 복원하려면 최소 {0}GB의 디스크 공간이 필요합니다. 디스크 공간을 확보하고 다시 시도하십시오.
+
+STRING_BACKUP_FAILED = 백업 실패
+
+STRING_BACKUP_FAIL_INFO = 데이터를 백업하는 동안 문제가 발생했습니다. 다시 시도해 주세요.
+
+STRING_COULD_NOT_BACKUP_INSUFFICIENT_SPACE = 데이터를 백업하려면 최소 {0}GB의 디스크 공간이 필요합니다. 드라이브 위치를 변경하거나 여유 공간을 확보하십시오.
+
+STRING_CHANGE_LOCATION = 위치 변경하기
+
+STRING_RESTORE_SUCCESSFUL_HEADER = 복원 성공
+
+STRING_RESTORE_SUCCESSFUL_BODY = 데이터가 성공적으로 복원되었습니다.
+
+STRING_UNABLE_TO_INSTALL = 설치할 수 없음
+
+STRING_VALID_CERT_ERROR = 설치에 필요한 필수 Windows 업데이트를 사용할 수 없습니다. 이 문제를 해결하는 방법을 배우려면 기사를 읽으십시오.
+
+STRING_READ_ARTICLE = 보기
+
+STRING_SELECT_BACKUP_FOLDER = 백업을 만들 폴더를 선택해 주세요.
+
+STRING_BEFORE_YOU_RESTORE = 복원하기 전에
+
+STRING_RESTORE_FAIL_WARNING = @@STRING_PRODUCT_NAME@@의 이전 버전 백업에서 현재 버전으로 데이터를 복원하지 못할 수도 있습니다.
+
+STRING_RESTORE_NOT_PERMITTED = 새 백업을 @@STRING_PRODUCT_NAME@@의 이전 버전으로 복원하는 것은 지원되지 않습니다.
+
+STRING_BACKUP_ERROR_INVALID_PATH_SELECTED = 데이터를 백업하는 동안 문제가 발생했습니다. 다른 폴더를 선택하고 다시 시도하십시오.
+
+STRING_BACKUP_UNSUCCESSFUL = 백업 실패
+STRING_CONTACT_TECHNICAL_SUPPORT = 기술 지원에 직접 연락하여 문제를 해결할 수 있습니다.
+
+STRING_PREFER_BS4 = 기본 BS4
+
+STRING_NECESSARY_ACTIONS = BlueStacks가 필요한 작업을 수행하는 동안 잠시 기다려 주십시오.
+
+STRING_RESTART_LATER = 나중에 다시 시작
+
+STRING_PROCESS_COMPLETED = 프로세스가 성공적으로 완료되었습니다.
+
+STRING_RESTART_FOR_CHANGES = 변경 사항을 적용하기 위해 PC를 다시 시작하시겠습니까?
+
+STRING_UPDATE_WIN7_TITLE = 윈도우 7 최신 버전으로 업데이트
+
+STRING_UPDATE_WIN7_MESSAGE = 시스템이 최소 요구 사항을 충족하는지 확인하려면 윈도우 7 서비스 팩 1을 설치해야 합니다. 자세한 단계는 문서를 참조하십시오.

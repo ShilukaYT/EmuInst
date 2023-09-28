@@ -1,0 +1,495 @@
+STRING_RESTART = إعادة بدء
+
+STRING_LEARN_MORE = أعرف أكثر
+
+STRING_APP_CRASH = تعطل التطبيق
+
+STRING_64BIT = 64-bit
+
+STRING_WARNING = تحذير
+
+STRING_PIE = Pie
+
+STRING_FOLDER = ملف
+
+STRING_CANNOT_INSTALL_0 = لا يمكن تثبيت@@STRING_PRODUCT_NAME@@ {0}
+
+STRING_RESTART_PC = إعادة تشغيل الكمبيوتر
+
+STRING_STATUS_COLLECTING_GUEST = جمع معلومات أندرويد
+
+STRING_DOWNLOADING = جارى التحميل
+
+STRING_CANT_USE_THIS_FOLDER = للأسف ، لا يمكن استخدام المجلد المحدد لتثبيت@@STRING_PRODUCT_NAME@@
+
+STRING_ERROR_SENDING_REPORT = خطأ أثناء إرسال التقرير
+
+STRING_SPACE_REQUIRED = المساحة المطلوبة
+
+STRING_HYPERV_DISABLED_MESSAGE = لا يمكن بدء @@STRING_PRODUCT_NAME@@ عندما يتم تعطيل Hyper-V. يجب عليك تمكين Microsoft Hyper-V من لوحة تحكم Windows والمحاولة مرة أخرى. الرجوع إلى هذه الأسئلة الشائعة للحصول على خطوات حول كيفية تمكينه.
+
+STRING_COULDNT_RESTORE_UNUSABLE = تعذر استعادة بلو ستاكس إلى حالته السابقة وقد تكون غير قابلة للاستخدام.
+
+STRING_CHOOSE_AGAIN = اختر مرة أخرى
+
+STRING_RETRY = إعادة المحاولة
+
+STRING_DISABLED_VT = يتطلب @@STRING_PRODUCT_NAME@@ تمكين الظاهرية بمساعدة الأجهزة على جهاز الكمبيوتر الخاص بك للحصول على الأداء الأمثل. راجع هذه الأسئلة الشائعة للحصول على إرشادات حول كيفية تمكينه.
+
+STRING_MINIMIZE_INSTALLER = تصغير المثبت؟
+
+STRING_PC_HAS_LESS_MEMORY = يحتوي جهاز الكمبيوتر الخاص بك على أقل من {0} جيجابايت من الذاكرة المطلوبة لتشغيل BlueStacks.
+
+STRING_CANNOT_USE_FOLDER = لا يمكن استخدام المجلد
+
+STRING_APP_NAME_WATERMARK = اكتب اسم التطبيق هنا
+
+STRING_FAILED_TO_RESTORE_OLD_DATA = لم يستطع بلو ستاكس استعادة بياناتك السابقة.
+
+STRING_AUTO = تلقاءي
+
+STRING_DOWNLOAD = حمّل
+
+STRING_BS_REQUIRES_SPACE_DRIVE_INSTALL = يتطلب @@STRING_PRODUCT_NAME@@ مساحة خالية على القرص {0} غيغابايت على الأقل في محرك الأقراص {1} للتحديث.
+
+STRING_SUBMIT = قدم
+
+STRING_TOTAL_ATTACHMENT_COUNT_EXCEEDED_LIMIT = يجب إرفاق أقل من 10 ملفات.
+
+NAME = اسم
+
+STRING_CUSTOM = تعديل التثبيت
+
+STRING_CLEAN_BLUESTACKS = سيؤدي ذلك إلى مسح بلو ستاكس وبيانات اللعبة المحفوظة المحلية.
+
+STRING_GAME_LAG = اللعبة تبدو بطيئة / بطيئة
+
+STRING_VERSION_ALREADY_INSTALLED = أحدث نسخة مثبتة بالفعل
+
+STRING_APPLICATION_NAME = اسم التطبيق
+
+STRING_EXIT_INSTALLER = خروج المثبت
+
+STRING_SUBCATEGORY = تصنيف فرعي
+
+STIRNG_ACCEPT_TNC = قبول شروط الاستخدام
+
+STRING_INSTALLATION_ERROR = خطأ في التثبيت
+
+STRING_STATUS_COLLECTING_HOST = جمع معلومات المضيف
+
+STRING_REASON_FOR_UNINSTALL = من فضلك أخبرنا عن سبب اختيارك لإلغاء تثبيت بلو ستاكس
+
+STRING_FINISHED = إنتهى
+
+STRING_AGREE = قبول
+
+STRING_PROBLEM_TYPE = نوع المشكلة
+
+STRING_STATUS_COLLECTING_PRODUCT = جمع معلومات المنتج
+
+STRING_CREATE = خلق
+
+STRING_SELECT_APP_NAME = حدد اسم التطبيق
+
+STRING_RESTART_NOW = اعد البدء الان
+
+STRING_CANCEL = يلغي
+
+ANDROID = Android
+
+STRING_NO = لا
+
+STRING_POST_OTS_FAILED_WARNING_MESSAGE = يرجى التحقق من اتصالك بالإنترنت وحاول مرة أخرى.
+
+STRING_UNINSTALL_CURRENT_AND_REINSTALL = الرجاء إلغاء تثبيت الإصدار الحالي وإعادة تثبيت بلو ستاكس.
+
+STRING_0_MINS_LEFT = {0} دقيقة متبقية
+
+STRING_WAITING_FOR_INTERNET = في انتظار الاتصال بالإنترنت
+
+STRING_FOLDER_CANNOT_CONTAIN_FOLLOWING_SPECIAL_CHARS = لا يمكن أن يحتوي المسار المحدد على أي من الأحرف التالية:
+
+STRING_CLIENT_UNINSTALL = إلغاء تثبيت العميل
+
+STRING_INSUFFICIENT_SPACE = مساحة قرص تخزين غير كافية
+
+STRING_CONTINUE = تابع
+
+STRING_SELECT_FOLDER = يرجى تحديد ملف آخر
+
+STRING_ROLLBACK_FAILED_SORRY_MESSAGE = نأسف كثيرًا ، ولكن كل من الترقية والتراجع اللاحق قد فشلا ولم يعد من الممكن استعادة BlueStacks إلى الحالة التي كانت عليها قبل بدء الترقية. لسوء الحظ ، يمكنك فقط إلغاء تثبيت الإصدار الموجود من BlueStacks وتثبيت أحدث إصدار من BlueStacks من موقع الويب.
+
+STRING_CLOSE = قريب
+
+STRING_THANKS_FOR_USING_BLUESTACKS = شكرا لك على استخدام بلو ستاكس
+
+STRING_CHECKING_YOUR_SYSTEM = فحص النظام الخاص بك
+
+STRING_MINIMIZE_TOOLTIP = تصغير
+
+STRING_INSTALLATION_ROLLBACK_COMPLETE = إنتهى التراجع
+
+STRING_EXE_CRASH = تعطل .exe
+
+STRING_REPORT_SENT_SUCCESS = تم ارسال التقرير بنجاح
+
+STRING_ERROR = خطأ
+
+STRING_INSTALLING_ENGINE = تثبيت المحرك
+
+STRING_INSTALLATION_CANCEL_CONFIRMATION = هل تود إنهاء التثبيت؟
+
+STRING_SYSTEM_REQUIREMENTS_NOT_MET = لم يتم استيفاء الحد الأدنى من متطلبات النظام
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION_BAT_EXE = غير مسموح بالملفات ذات الامتدادات .bat و .exe.
+
+STRING_APP_DETAILS = تفاصيل التطبيق
+
+STRING_NOUGAT = نوجا
+
+STRING_INSTALLATION_FAILED = للأسف ، تعذر تثبيت BlueStacks.
+
+STRING_HOW_TO_TAKE_BACKUP = كيف تستخدم النسخ الاحتياطي؟
+
+STRING_BETA = بيتا
+
+STRING_CHOOSE = اختار
+
+STRING_APP_NAME = أدخل اسم التطبيق
+
+STRING_HYPERV_OS_RELEASEID_WARNING = يتطلب هذا الإصدار من @@STRING_PRODUCT_NAME@@ إصدار Windows 1903 أو إصدار أحدث. الرجاء تحديث Windows أو تعطيل Hyper-V لتثبيت @@STRING_PRODUCT_NAME@@.
+
+STRING_LATEST_VERSION_INSTALLED = تم تثبيت أحدث إصدار من بلو ستاكس بالفعل على جهاز الكمبيوتر الخاص بك.
+
+STRING_CREATE_SHORTCUTS = إنشاء اختصارات بلو ستاكس
+
+STRING_INSTALL_REQUIRES_ADMIN = لتثبيت ، يتطلب BlueStacks امتياز مسؤول ويندوز. هل ترغب في منحها لمتابعة التثبيت؟
+
+STRING_CANNOT_FIND_GAME = لا يمكن العثور على لعبة
+
+STRING_RECEIVE_EMAIL_NOTIFICATION = تلقي إخطارات البريد الإلكتروني
+
+STRING_OK = نعم
+
+STRING_RESTART_TRY_AGAIN = هل نوصي بإعادة تشغيل جهاز الكمبيوتر ومحاولة التثبيت مرة أخرى؟
+
+STRING_UNINSTALL_FINISHED = إزالة تثبيت بلو ستاكس
+
+STRING_INSTALL_DONE = اكتمل التثبيت
+
+STRING_INSTALL_GAME_FAIL = لا يمكن تثبيت لعبة
+
+STRING_UNINSTALL_TITLE = إلغاء تثبيت بلو ستاكس
+
+STRING_ATTACH_FILES = إرفاق ملفات
+
+STRING_INSTALL_FAIL = فشل التثبيت
+
+STRING_READ_WHATS_NEW = اقرأ ما الجديد
+
+STRING_LOGCOLLECTOR_RUNNING = أداة تقرير المشكلة قيد التشغيل بالفعل
+
+STRING_DESCRIBE_PROBLEM = صف المشكلة
+
+STRING_TOTAL_ATTACHMENT_SIZE_EXCEEDED_LIMIT = إجمالي الملفات المرفقة يتجاوز الحد الأقصى المسموح به وهو 25 ميجابايت. يرجى اختيار ملف آخر.
+
+STRING_INSUFFICIENT_DISKSPACE = لا يحتوي الكمبيوتر الخاص بك على مساحة كافية على القرص. يتطلب بلو ستاكس
+
+STRING_ERROR_OCCURED_DEPLOYING_FILES = واجه بلو ستاكس خطأ أثناء نشر بعض الملفات.
+
+STRING_HYPERV_COMPUTE_PLATFORM_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@لا يمكن بدء التشغيل حيث لم يتم تمكين النظام الأساسي للحوسبة Hyper-V على جهاز الكمبيوتر الخاص بك.
+
+STRING_INSTALL_FINISH = اكتمل التثبيت
+
+STRING_CHECK_FAQ = تحقق من الأسئلة الشائعة
+
+STRING_DOWNLOAD_FAILED = التحميل فشل
+
+STRING_CANT_INSTALL_BLUESTACKS = لا يمكن تثبيت BlueStacks
+
+STRING_RESTART_MACHINE_PROMPT = هل ترغب في إعادة تشغيل جهاز الكمبيوتر الخاص بك؟
+
+STRING_PC_INSUFFICIENT_SPACE_WARNING = لسوء الحظ ، لا يحتوي جهاز الكمبيوتر الخاص بك على مساحة قرص كافية لتحديث BlueStacks.
+
+STRING_ERROR_CODE_COLON = خطا بالكود:
+
+STRING_YES = نعم
+
+STRING_INSTALLER = © 2011 حتى 2023 BlueStacks by now.gg، Inc. جميع الحقوق محفوظة في جميع أنحاء العالم
+
+STRING_RETRY_CONNECTION_ISSUE_TEXT1 = حول مرة أخرى
+
+STRING_TRY_RESTARTING_MACHINE = قم بإعادة تشغيل جهاز الكمبيوتر الخاص بك وحاول مرة أخرى
+
+STRING_SELECTED_DRIVE_INSUFFICIENT_DISKSPACE = لسوء الحظ ، لا يحتوي محرك الأقراص المحدد على مساحة قرص كافية لتثبيت@@STRING_PRODUCT_NAME@@.
+
+STRING_AFTER_DISK_SPACE_CONTINUE = الرجاء تحرير مساحة القرص المطلوبة وإعادة المحاولة.
+
+STRING_UPGRADE_FAILED = فشلت الترقية
+
+STRING_INSUFFICIENT_MEMORY = الذاكرة غير كافية
+
+STRING_BLUESTACKS = بلو ستاكس
+
+STRING_BST_SUPPORT_UTILITY = دعم خدمة بلو ستاكس
+
+STRING_UNINSTALL_BLUESTACKS = هل ترغب في إلغاء تثبيت بلو ستاكس؟
+
+STRING_BEFORE_CREATING_SETUP = @@STRING_PRODUCT_NAME@@ مثبت بالفعل. لإنشاء نسخة {0} ، يحتاج @@STRING_PRODUCT_NAME@@ إلى التحديث إلى أحدث إصدار.
+
+STRING_ERROR_INSTALLING_BLUESTACKS = خطأ في تثبيت BlueStacks
+
+STRING_LAUNCH = إطلاق
+
+BLUESTACKS = بلو ستاكس
+
+STRING_DATA_PATH = مسار البيانات بلو ستاكس
+
+STRING_ANTIVIRUS_PAUSE_INSTALLER =  أوقف مؤقتًا برنامج مكافحة الفيروسات الخاص بجهاز الكمبيوتر إذا كان يتداخل مع عملية التثبيت
+
+STRING_0_COMMA_1 = {0} ، {1}
+
+NONE = لا شيء
+
+STRING_INSTALL_NOW = تثبيت الآن
+
+STRING_CATEGORY = الفئة
+
+STRING_REPORT_A_PROBLEM = الإبلاغ عن مشكلة
+
+STRING_SORRY_ERROR_INSTALLING_BLUESTACKS = عذرًا ، يبدو أنه حدث خطأ أثناء تثبيت BlueStacks.
+
+STRING_ONE_STEP_GO_ADDITIONAL_FILES = هناك خطوة أخرى متبقية - سيتم تنزيل بعض الملفات الإضافية لإنشاء مثيل {0}.
+
+STRING_AGREE_WITH_LICENSE = موافقتك على شروط الاستخدام الخاصة بنا مطلوبة للمضي قدمًا
+
+STRING_SELECT_AGAIN = حدد مرة أخرى
+
+STRING_START_ENGINE_FAIL = المحرك لم يبدأ
+
+STRING_INSTALLING = التثبيت
+
+STRING_32BIT = 32-bit
+
+STRING_OS_VERSION_NOT_SUPPORTED = بلو ستاكس غير مدعوم لإصدار ويندوز الذي يعمل على هذا الكمبيوتر.
+
+STRING_EXIT = خروج
+
+STRING_UPGRADE_NOT_SUPPORTED = للأسف ، لا يمكن ترقية الإصدار الحالي من BlueStacks إلى الإصدار الأحدث.
+
+STRING_INCOMPATIBLE_INSTALLER_STARTED = هذا الإصدار من مثبت بلو ستاكس غير متوافق مع إصدار ويندوز الخاص بك. يرجى تنزيل الإصدار {0} من بلو ستاكس والمحاولة مرة أخرى.
+
+STRING_INSTALLER_CANNOT_STOP_AFTER_START = لسوء الحظ ، لا يمكن إيقاف عملية التثبيت بمجرد أن تبدأ. يرجى الانتظار حتى يكتمل.
+
+STRING_INVALID_FILE = ملف غير صالح
+
+STRING_STATUS_INITIAL = بدء الجامع
+
+STRING_ATTACHMENT_SIZE_EXCEEDED = تم تجاوز حجم المرفق
+
+STRING_UPGRADE_FROM_BS1_CLEAN_OK = تثبيت جديد
+
+STRING_INSTALLATION_ROLLBACK = التراجع في التثبيت
+
+STRING_LATEST_VERSION = أنت على أحدث إصدار
+
+STRING_ATTACHMENT_COUNT_EXCEEDED = تم تجاوز عدد المرفقات
+
+STRING_CHANGE_FOLDER = تغير مجلد
+
+STRING_CREATE_0_INSTANCE = إنشاء مثيل {0}؟
+
+STRING_BACK = الى الخلف
+
+STRING_SOFTWARE_LICENSE = رخصة البرنامج
+
+STRING_SPACE_AVAILABLE = مساحة متاحة
+
+STRING_BLACK_SCREEN = شاشة سوداء
+
+STRING_UPGRADE_FROM_BS1_CLEAN_CANCEL = اتركها قديمة
+
+STRING_BLUESTACKS_INSTALLER = مثبت بلو ستاكس
+
+STRING_LOGCOLLECTOR_DESCRIPTION_WARNING = أدخل أكثر من 10 أحرف في الوصف
+
+STRING_INITIATING_PERFORMANCE_BOOST = الانتهاء من خطوات التثبيت بعد
+
+STRING_UNFORTUNATELY_COULDNT_UPGRADE = تعذر تحديث BlueStacks 5.
+
+STRING_HYPERV_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@لا يمكن البدء عند تعطيل Hyper-V.
+
+STRING_INCOMPATIBLE_INSTALLER = المثبت غير متوافق
+
+STRING_UNINSTALL = الغاء التثبيت
+
+STRING_ADDITIONAL_FILES_DOWNLOAD_INSTANCE = @@STRING_PRODUCT_NAME@@ مثبت بالفعل. لإنشاء مثيل {0} ، سيتم تنزيل بعض الملفات الإضافية.
+
+STRING_PREINSTALL_FAIL = للأسف ، لا يلبي الكمبيوتر الحد الأدنى من المتطلبات لتثبيت بلو ستاكس.
+
+STRING_UPGRADE_NOW = تحديث الان
+
+STRING_0_OF_1 = {0} من {1}
+
+STRING_SUBMIT_REPORT = تقديم التقرير
+
+STRING_OTHER_REASON = أسباب أو معلومات أخرى ، على سبيل المثال ، اسم اللعبة ، وما إلى ذلك.
+
+STRING_ENGINE_UNINSTALL = إلغاء تثبيت المحرك
+
+STRING_STATUS_SENDING = إرسال تقرير المشكلة
+
+STRING_CONFLICT_WITH_OTHERS = مشكلة مع برنامج أخر
+
+STRING_INSTALLATION_START_WHEN_DOWNLOAD_FINISHES = سيبدأ التثبيت بمجرد اكتمال التنزيل
+
+STRING_YOUR_EMAIL = عنوان البريد الإلكتروني
+
+STRING_BS_CANNOT_INSTALL_64_ON_32 = @@STRING_PRODUCT_NAME@@ لا يمكنه تثبيت الإصدار 64 بت من Android نظرًا لأنك تستخدم Windows 32 بت.
+
+STRING_PRE_INSTALL_CHECKS = التحقق من متطلبات النظام
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION = الملف الذي تحاول إرفاقه ليس صورة. يرجى إرفاق لقطة شاشة للمشكلة وإعادة المحاولة.
+
+STRING_CONTINUE_IN_BACKGROUND = هل ترغب في متابعة تنزيل BlueStacks في الخلفية؟
+
+STRING_ADMINISTRATIVE_RIGHTS_REQUIRED = امتياز المسؤول مطلوب
+
+STRING_PROMPT = لا يمكن إرسال تقرير المشكلة. تم إنشاء ملف باسم BlueStacks-Support.zip على سطح المكتب الخاص بك. يرجى إرسال هذا الملف بالبريد الإلكتروني مع وصف موجز للمشكلة التي تواجهها إلى support@bluestacks.com.
+
+VERSION = الإصدار
+
+STRING_INSTALL_ENGINE_FAIL = لا يمكن تثبيت المحرك
+
+STRING_BST_INSTALLER_ALREADY_RUNNING = مثيل آخر من المثبت@@STRING_PRODUCT_NAME@@قيد التشغيل بالفعل.
+
+STRING_UPDATE_SETTING = تحديث
+
+STRING_EXTRACTING_FILES = استخراج ملفات
+
+STRING_FREE_DISK_SPACE = كيفية تشغيل الأداة المساعدة لتنظيف القرص؟
+
+STRING_INSTALL = التثبت
+
+STRING_ERROR_WHILE_DOWNLOADING_BS = حدث خطأ أثناء محاولة تنزيل BlueStacks.
+
+STRING_SELECT = حدد
+
+STRING_OLD_INSTALLATION_INTERFERING = يبدو أن التثبيت الحالي BlueStacks يتداخل مع المحاولة الحالية لتثبيت BlueStacks.
+
+STRING_OUTLINE_ISSUE = يرجى وصف المشكلة أدناه حتى نتمكن من فهم كيفية مساعدتك.
+
+STRING_FINISH_REPORT_SEND = تم إرسال تقرير مشكلتك. سوف نعود اليك قريبا.
+
+STRING_STATUS_ARCHIVING = إنشاء أرشيف الدعم
+
+STRING_PC_MIN_REQ_UNMET_HOWEVER_PLAY_ON_X = لا يفي جهاز الكمبيوتر الخاص بك بالحد الأدنى من متطلبات النظام لتثبيت @@STRING_PRODUCT_NAME@@. ومع ذلك ، يمكنك لعب ألعاب Android المفضلة لديك عبر الإنترنت على السحابة الخاصة بنا باستخدام BlueStacks X.
+
+STRING_PLAY_ON_CLOUD = العب على السحابة
+
+STRING_NOT_ENOUGH_SPACE_PLAY_X = يتطلب @@STRING_PRODUCT_NAME@@ مساحة خالية على القرص {0} غيغابايت على الأقل في محرك الأقراص {1} للتثبيت. يمكنك تحرير مساحة القرص المطلوبة وإعادة المحاولة ، أو تغيير المسار للتثبيت على محرك أقراص آخر ، أو اللعب عبر الإنترنت على السحابة الخاصة بنا باستخدام BlueStacks X.
+
+STRING_BSX_ON_GL_UNSUPPORTED = بطاقة الرسومات أو برامج التشغيل الخاصة بها غير متوافقة مع @@STRING_PRODUCT_NAME@@. يرجى تحديث برامج التشغيل الخاصة بك وإعادة محاولة التثبيت. يمكنك أيضًا لعب ألعاب Android المفضلة لديك عبر الإنترنت على السحابة الخاصة بنا باستخدام BlueStacks X.
+
+
+STRING_PC_MIN_REQ_UNMET = لا يفي جهاز الكمبيوتر الخاص بك بالحد الأدنى من متطلبات النظام لتثبيت @@STRING_PRODUCT_NAME@@.
+
+STRING_NOT_ENOUGH_SPACE = يتطلب @@STRING_PRODUCT_NAME@@ مساحة خالية على القرص تبلغ {0} غيغابايت على الأقل في محرك الأقراص {1} للتثبيت. يمكنك تحرير مساحة القرص المطلوبة وإعادة المحاولة ، أو تغيير المسار للتثبيت على محرك أقراص آخر.
+
+STRING_GL_UNSUPPORTED = بطاقة الرسومات أو برامج التشغيل الخاصة بها غير متوافقة مع @@STRING_PRODUCT_NAME@@. يرجى تحديث برامج التشغيل الخاصة بك وإعادة محاولة التثبيت.
+
+STRING_INTERNET_UNSTABLE = اتصالك بالإنترنت غير مستقر. يرجى التحقق من اتصالك وحاول مرة أخرى.
+
+STRING_CHANGE_PATH = تغيير المسار
+
+STRING_MIN_REQ_FAILED_0 = لا يفي نظامك بالحد الأدنى من متطلبات تشغيل {0}.
+
+STRING_INSTALL_32BIT = الرجاء تثبيت @@STRING_PRODUCT_NAME@@ الإصدار {0}.
+
+STRING_OTHER = آخر
+
+STRING_RETRY_BANNER_MESSAGE = حدث خطأ أثناء استخراج بعض الملفات. الرجاء إعادة المحاولة أو {0} للحصول على المساعدة إذا استمرت المشكلة.
+
+STRING_CONTACT_US = اتصل بنا
+
+STRING_ABORT = إحباط
+
+STRING_ANDROID11 = Android 11
+
+STRING_BACKUP_AND_RESTORE = نسخ احتياطي واستعادة
+
+STRING_BACKUP_PROGRESS = النسخ الاحتياطي قيد التقدم
+
+STRING_BACKUP_WARNING = لا تقم بإعادة تشغيل جهاز الكمبيوتر أو إيقاف تشغيله حتى تكتمل العملية.
+
+STRING_BACKUP_SUCCESSFUL_HEADER = تم النسخ الاحتياطي بنجاح
+
+STRING_BACKUP_SUCCESSFUL_BODY = تم نسخ بياناتك احتياطيًا بنجاح إلى المجلد التالي:
+
+STRING_LAUNCH_PLAYER = إطلاق @@STRING_PRODUCT_NAME@@
+
+STRING_CANCEL_BACKUP = إلغاء النسخ الاحتياطي؟
+
+STRING_CANCEL_BACKUP_INFO = هل أنت متأكد أنك تريد إلغاء النسخ الاحتياطي ، يمكنك القيام بذلك مرة أخرى لاحقًا من الإعدادات.
+
+STRING_DONT_CANCEL = لا تلغي
+
+STRING_RESTORING_BACKUP = استعادة البيانات
+
+STRING_SELECT_BACKUP = حدد نسخة احتياطية
+
+STRING_SELECT_RESTORE = حدد استعادة
+
+STRING_INCORRECT_PATH = تم اختيار مجلد غير صحيح. الرجاء تحديد مجلد النسخ الاحتياطي الصحيح الذي ترغب في استعادته والمحاولة مرة أخرى.
+
+STRING_RESTORE_FAILURE = الاستعادة غير ناجحة
+
+STRING_RESTORE_FAIL_INFO = حدث خطأ ما أثناء استعادة بياناتك. حاول مرة اخرى.
+
+STRING_COULD_NOT_RESOTRE_INSUFFICIENT_SPACE = مطلوب ما لا يقل عن {0} غيغابايت من مساحة القرص لاستعادة بياناتك. الرجاء تحرير بعض مساحة القرص وحاول مرة أخرى.
+
+STRING_BACKUP_FAILED = فشل النسخ الاحتياطي
+
+STRING_BACKUP_FAIL_INFO = حدث خطأ ما أثناء النسخ الاحتياطي لبياناتك. حاول مرة اخرى.
+
+STRING_COULD_NOT_BACKUP_INSUFFICIENT_SPACE = مطلوب ما لا يقل عن {0} غيغابايت من مساحة القرص لنسخ بياناتك احتياطيًا. الرجاء تغيير موقع محرك الأقراص أو إخلاء بعض المساحة.
+
+STRING_CHANGE_LOCATION = تغيير الموقع
+
+STRING_RESTORE_SUCCESSFUL_HEADER = استعادة ناجحة
+
+STRING_RESTORE_SUCCESSFUL_BODY = تمت استعادة البيانات الخاصة بك بنجاح.
+
+STRING_UNABLE_TO_INSTALL = غير قادر على تثبيت
+
+STRING_VALID_CERT_ERROR = تحديثات Windows الأساسية المطلوبة للتثبيت غير متوفرة. اقرأ المقال لمعرفة كيفية حل هذا.
+
+STRING_READ_ARTICLE = اقرأ المقال
+
+STRING_SELECT_BACKUP_FOLDER = حدد مجلدًا تريد إنشاء نسخة احتياطية عليه
+
+STRING_BEFORE_YOU_RESTORE = قبل الاستعادة
+
+STRING_RESTORE_FAIL_WARNING = الرجاء الانتباه إلى أن استعادة البيانات من نسخة احتياطية من نسخة أقدم من @@STRING_PRODUCT_NAME@@ إلى النسخة الحالية قد لا تكون ناجحة.
+
+STRING_RESTORE_NOT_PERMITTED = استعادة نسخة احتياطية أحدث إلى إصدار أقدم من @@STRING_PRODUCT_NAME@@ غير مدعومة.
+
+STRING_BACKUP_ERROR_INVALID_PATH_SELECTED = حدث خطأ ما أثناء النسخ الاحتياطي لبياناتك. حدد مجلدًا مختلفًا وحاول مرة أخرى.
+
+STRING_BACKUP_UNSUCCESSFUL = فشل النسخ الاحتياطي
+STRING_CONTACT_TECHNICAL_SUPPORT = يمكنك الاتصال بالدعم الفني مباشرة لحل مشكلتك
+
+STRING_PREFER_BS4 = أفضل BS4
+
+STRING_NECESSARY_ACTIONS = يرجى الانتظار بينما يقوم BlueStacks بالإجراءات اللازمة
+
+STRING_RESTART_LATER = إعادة التشغيل لاحقا
+
+STRING_PROCESS_COMPLETED = اكتملت العملية بنجاح.
+
+STRING_RESTART_FOR_CHANGES = هل ترغب في إعادة تشغيل الكمبيوتر حتى تدخل التغييرات حيز التنفيذ؟
+
+STRING_UPDATE_WIN7_TITLE = قم بالتحديث إلى أحدث إصدار من Windows 7
+
+STRING_UPDATE_WIN7_MESSAGE = للتأكد من أن نظامك يلبي الحد الأدنى من المتطلبات ، يجب عليك تثبيت Windows 7 Service Pack 1. قم بعرض المقالة للحصول على خطوات مفصلة.

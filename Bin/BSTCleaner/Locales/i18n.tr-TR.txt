@@ -1,0 +1,495 @@
+STRING_RESTART = Yeniden Başlat
+
+STRING_LEARN_MORE = Daha fazla bilgi edinin
+
+STRING_APP_CRASH = App çökmesi
+
+STRING_64BIT = 64-bit
+
+STRING_WARNING = Uyarı
+
+STRING_PIE = Pie
+
+STRING_FOLDER = Klasör
+
+STRING_CANNOT_INSTALL_0 = @@STRING_PRODUCT_NAME@@ {0} yüklenemiyor
+
+STRING_RESTART_PC = Bilgisayarı yeniden başlat
+
+STRING_STATUS_COLLECTING_GUEST = Android Bilgisi Toplanıyor
+
+STRING_DOWNLOADING = İndiriliyor
+
+STRING_CANT_USE_THIS_FOLDER = Ne yazık ki seçtiğiniz klasörle @@STRING_PRODUCT_NAME@@ yüklenemiyor.
+
+STRING_ERROR_SENDING_REPORT = Rapor gönderilirken hata
+
+STRING_SPACE_REQUIRED = Gereken alan
+
+STRING_HYPERV_DISABLED_MESSAGE = @@STRING_PRODUCT_NAME@@, Hyper-V devre dışı bırakıldığında başlatılamaz. Windows Denetim Masası'ndan Microsoft Hyper-V'yi etkinleştirmeli ve yeniden denemelisiniz. Nasıl etkinleştirileceğine ilişkin adımlar için bu SSS'ye bakın.
+
+STRING_COULDNT_RESTORE_UNUSABLE = @@STRING_PRODUCT_NAME@@ geri yüklenemedi ve şu an kullanılamaz durumda.
+
+STRING_CHOOSE_AGAIN = Yeniden seç
+
+STRING_RETRY = Yeniden dene
+
+STRING_DISABLED_VT = @@STRING_PRODUCT_NAME@@, optimum performans için bilgisayarınızda donanım destekli sanallaştırmanın etkinleştirilmesini gerektirir. Nasıl etkinleştirileceğine ilişkin talimatlar için bu SSS'ye bakın.
+
+STRING_MINIMIZE_INSTALLER = Yükleyici simge durumuna küçülsün mü?
+
+STRING_PC_HAS_LESS_MEMORY = PC'nizde @@STRING_PRODUCT_NAME@@'ın çalışması için gereken {0} GB'den daha az bellek var.
+
+STRING_CANNOT_USE_FOLDER = Klasör Kullanılamıyor
+
+STRING_APP_NAME_WATERMARK = Uygulama adını buraya yazın
+
+STRING_FAILED_TO_RESTORE_OLD_DATA = @@STRING_PRODUCT_NAME@@ önceki verilerinizi geri yükleyemedi.
+
+STRING_AUTO = Otomatik
+
+STRING_DOWNLOAD = İndir
+
+STRING_BS_REQUIRES_SPACE_DRIVE_INSTALL = @@STRING_PRODUCT_NAME@@, güncelleme için {1} sürücüsünde en az {0} GB boş disk alanı gerekir.
+
+STRING_SUBMIT = Gönder
+
+STRING_TOTAL_ATTACHMENT_COUNT_EXCEEDED_LIMIT = Eklenen dosyalar 10 adetten az olmalıdır.
+
+NAME = İsim
+
+STRING_CUSTOM = Yüklemeyi özelleştirin
+
+STRING_CLEAN_BLUESTACKS = Bu, mevcut genel @@STRING_PRODUCT_NAME@@ ve kayıtlı oyun verilerinizi tamamen silecektir.
+
+STRING_GAME_LAG = Laglı oyun
+
+STRING_VERSION_ALREADY_INSTALLED = Son Sürüm zaten yüklenmiş
+
+STRING_APPLICATION_NAME = Uygulama İsmi
+
+STRING_EXIT_INSTALLER = Yükleyiciden çık
+
+STRING_SUBCATEGORY = Alt Kategori
+
+STIRNG_ACCEPT_TNC = Kullanım Koşullarını Kabul Edin
+
+STRING_INSTALLATION_ERROR = Yükleme Hatası
+
+STRING_STATUS_COLLECTING_HOST = Sunucu Bilgisi Toplanıyor
+
+STRING_REASON_FOR_UNINSTALL = @@STRING_PRODUCT_NAME@@'ı kullandığınız için teşekkürler. Lütfen @@STRING_PRODUCT_NAME@@'ı silmeyi neden tercih ettiğinizi bize söyleyin:
+
+STRING_FINISHED = Tamamlandı
+
+STRING_AGREE = Kabul Et
+
+STRING_PROBLEM_TYPE = Problem Türü
+
+STRING_STATUS_COLLECTING_PRODUCT = Ürün Bilgisi Toplanıyor
+
+STRING_CREATE = Oluştur
+
+STRING_SELECT_APP_NAME = Uygulama Adı Seç
+
+STRING_RESTART_NOW = Şimdi yeniden başlat
+
+STRING_CANCEL = İptal et
+
+ANDROID = Android
+
+STRING_NO = Hayır
+
+STRING_POST_OTS_FAILED_WARNING_MESSAGE = Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin.
+
+STRING_UNINSTALL_CURRENT_AND_REINSTALL = Lütfen mevcut kurulumu kaldırın ve @@STRING_PRODUCT_NAME@@'i tekrar yükleyin.
+
+STRING_0_MINS_LEFT = {0} dakika kaldı
+
+STRING_WAITING_FOR_INTERNET = İnternet bağlantısı bekleniyor
+
+STRING_FOLDER_CANNOT_CONTAIN_FOLLOWING_SPECIAL_CHARS = Yapılan seçim aşağıdaki karakterlerden herhangi birini içeremez:
+
+STRING_CLIENT_UNINSTALL = İstemciyi Kaldırma
+
+STRING_INSUFFICIENT_SPACE = Yetersiz disk alanı
+
+STRING_CONTINUE = Devam et
+
+STRING_SELECT_FOLDER = Lütfen başka bir klasör seçiniz
+
+STRING_ROLLBACK_FAILED_SORRY_MESSAGE = Üzgünüz ancak hem yükseltme hem de sonraki geri alma başarısız oldu ve @@STRING_PRODUCT_NAME@@'in yükseltme işlemine başlamadan önceki durumuna geri yüklenmesi artık mümkün değil. Maalesef, sadece mevcut sürümü kaldırabilir ve @@STRING_PRODUCT_NAME@@'in son sürümünü web sitesinden yükleyebilirsiniz.
+
+STRING_CLOSE = Kapat
+
+STRING_THANKS_FOR_USING_BLUESTACKS = @@STRING_PRODUCT_NAME@@ kullandığınız için teşekkürler
+
+STRING_CHECKING_YOUR_SYSTEM = Sisteminiz kontrol ediliyor
+
+STRING_MINIMIZE_TOOLTIP = Küçült
+
+STRING_INSTALLATION_ROLLBACK_COMPLETE = Rollback Tamamlandı
+
+STRING_EXE_CRASH = .exe çökmesi
+
+STRING_REPORT_SENT_SUCCESS = Rapor başarıyla gönderildi
+
+STRING_ERROR = Hata
+
+STRING_INSTALLING_ENGINE = Motor Yükleniyor
+
+STRING_INSTALLATION_CANCEL_CONFIRMATION = Bu yüklemeyi iptal etmek ister misiniz?
+
+STRING_SYSTEM_REQUIREMENTS_NOT_MET = Minimum sistem gereksinimleri karşılanamadı.
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION_BAT_EXE = .bat ve .exe uzantılı dosyalara izin verilmez.
+
+STRING_APP_DETAILS = Uygulama Detayları
+
+STRING_NOUGAT = Nougat
+
+STRING_INSTALLATION_FAILED = Maalesef, @@STRING_PRODUCT_NAME@@ yüklenemedi.
+
+STRING_HOW_TO_TAKE_BACKUP = Yedekleme nasıl yapılır?
+
+STRING_BETA = Beta
+
+STRING_CHOOSE = Seç
+
+STRING_APP_NAME = Uygulama Adını Girin
+
+STRING_HYPERV_OS_RELEASEID_WARNING = Bu @@STRING_PRODUCT_NAME@@ sürümü, Windows 1903 sürümünü veya üstünü gerektirir. @@STRING_PRODUCT_NAME@@ yüklemek için lütfen Windows'u güncelleyin veya Hyper-V'yi devre dışı bırakın.
+
+STRING_LATEST_VERSION_INSTALLED = @@STRING_PRODUCT_NAME@@'in son sürümü zaten bilgisayarınızda yüklü.
+
+STRING_CREATE_SHORTCUTS = @@STRING_PRODUCT_NAME@@ Kısayolları Oluşturuluyor
+
+STRING_INSTALL_REQUIRES_ADMIN = Yüklemek için @@STRING_PRODUCT_NAME@@, Windows Yönetici izni gerekiyor. Kuruluma devam etmek için izin vermek ister misiniz?
+
+STRING_CANNOT_FIND_GAME = Oyun bulunamadı
+
+STRING_RECEIVE_EMAIL_NOTIFICATION = E-mail bildirimleri al
+
+STRING_OK = OK
+
+STRING_RESTART_TRY_AGAIN = PC'nizi yeniden başlatmanızı ve kurulumu tekrar denemenizi tavsiye ediyoruz
+
+STRING_UNINSTALL_FINISHED = Kaldırma İşlemi Tamamlandı
+
+STRING_INSTALL_DONE = Kurulum tamamlandı
+
+STRING_INSTALL_GAME_FAIL = Oyun yüklenemiyor
+
+STRING_UNINSTALL_TITLE = @@STRING_PRODUCT_NAME@@'i kaldır
+
+STRING_ATTACH_FILES = Dosyaları ekle
+
+STRING_INSTALL_FAIL = Yükleme Başarısız
+
+STRING_READ_WHATS_NEW = Yenilikleri okuyun
+
+STRING_LOGCOLLECTOR_RUNNING = Problem bildirme aracı zaten çalışıyor
+
+STRING_DESCRIBE_PROBLEM = Problemi tarif edin
+
+STRING_TOTAL_ATTACHMENT_SIZE_EXCEEDED_LIMIT = Eklenen toplam dosya sayısı, izin verilen maksimum 25 MB sınırını aşıyor. Lütfen başka bir dosya seçin.
+
+STRING_INSUFFICIENT_DISKSPACE = Bluestack'in ihtiyaç duyduğu kadar yeterli disk alanı yok
+
+STRING_ERROR_OCCURED_DEPLOYING_FILES = @@STRING_PRODUCT_NAME@@, bazı dosyaları uygulamaya alırken bir hatayla karşılaştı.
+
+STRING_HYPERV_COMPUTE_PLATFORM_DISABLED_WARNING = Hyper-V hesaplama platformu bilgisayarınızda etkinleştirilmediğinden @@STRING_PRODUCT_NAME@@ başlatılamıyor.
+
+STRING_INSTALL_FINISH = Yükleme Tamamlandı
+
+STRING_CHECK_FAQ = Sık Sorulan Sorular'ı Kontrol Edin
+
+STRING_DOWNLOAD_FAILED = Yükleme başarısız
+
+STRING_CANT_INSTALL_BLUESTACKS = BlueStacks yüklenemiyor
+
+STRING_RESTART_MACHINE_PROMPT = PC'nizi yeniden başlatmak ister misiniz?
+
+STRING_PC_INSUFFICIENT_SPACE_WARNING = Maalesef bilgisayarınızda BlueStacks'i güncellemek için yeterli disk alanı yok.
+
+STRING_ERROR_CODE_COLON = Hata kodu:
+
+STRING_YES = Evet
+
+STRING_INSTALLER = © 2011den 2023'e BlueStacks by now.gg, Inc. Tüm hakları dünya çapında saklıdır
+
+STRING_RETRY_CONNECTION_ISSUE_TEXT1 = Tekrar Deneyin
+
+STRING_TRY_RESTARTING_MACHINE = Bilgisayarınızı tekrar başlatın ya da tekrar deneyin
+
+STRING_SELECTED_DRIVE_INSUFFICIENT_DISKSPACE = Ne yazık ki, seçilen sürücü @@STRING_PRODUCT_NAME@@ yüklemek için yeterli disk alanına sahip değil.
+
+STRING_AFTER_DISK_SPACE_CONTINUE = Lütfen gerekli disk alanını boşaltın ve yeniden deneyin.
+
+STRING_UPGRADE_FAILED = Yükseltme Başarısız Oldu
+
+STRING_INSUFFICIENT_MEMORY = Yetersiz hafıza
+
+STRING_BLUESTACKS = @@STRING_PRODUCT_NAME@@'i
+
+STRING_BST_SUPPORT_UTILITY = @@STRING_PRODUCT_NAME@@ Destek Aracı
+
+STRING_UNINSTALL_BLUESTACKS = @@STRING_PRODUCT_NAME@@'i kaldırmak ister misiniz?
+
+STRING_BEFORE_CREATING_SETUP = @@STRING_PRODUCT_NAME@@ zaten yüklü. Bir {0} örneği oluşturmak için @@STRING_PRODUCT_NAME@@'nin en son sürüme güncellenmesi gerekir.
+
+STRING_ERROR_INSTALLING_BLUESTACKS = @@STRING_PRODUCT_NAME@@ yüklenirken hata oluştu
+
+STRING_LAUNCH = Başlat
+
+BLUESTACKS = @@STRING_PRODUCT_NAME@@'i
+
+STRING_DATA_PATH = @@STRING_PRODUCT_NAME@@ veri biçimi
+
+STRING_ANTIVIRUS_PAUSE_INSTALLER =  Antivirüs programları eğer @@STRING_PRODUCT_NAME@@ kurulumuna müdahale ediyorsa onları durdurun.
+
+STRING_0_COMMA_1 = {0}, {1}
+
+NONE = Yok
+
+STRING_INSTALL_NOW = Şimdi kur
+
+STRING_CATEGORY = Kategori
+
+STRING_REPORT_A_PROBLEM = Problem Bildir
+
+STRING_SORRY_ERROR_INSTALLING_BLUESTACKS = Üzgünüz, @@STRING_PRODUCT_NAME@@ yüklenirken bir hata oluştu.
+
+STRING_ONE_STEP_GO_ADDITIONAL_FILES = Bir adım daha kaldı - {0} örneği oluşturmak için birkaç ek dosya indirilecek.
+
+STRING_AGREE_WITH_LICENSE = Devam etmek için Kullanım Koşullarımızı kabul etmeniz gerekiyor
+
+STRING_SELECT_AGAIN = Yeniden seç
+
+STRING_START_ENGINE_FAIL = Motor başlatılmadı
+
+STRING_INSTALLING = Yükleniyor
+
+STRING_32BIT = 32-bit
+
+STRING_OS_VERSION_NOT_SUPPORTED = Bu bilgisayarda çalışan Windows sürümü, @@STRING_PRODUCT_NAME@@'i desteklemiyor.
+
+STRING_EXIT = Çıkış
+
+STRING_UPGRADE_NOT_SUPPORTED = Maalesef, @@STRING_PRODUCT_NAME@@'in mevcut sürümünü en yeni sürüme yükseltmek mümkün değil.
+
+STRING_INCOMPATIBLE_INSTALLER_STARTED = @@STRING_PRODUCT_NAME@@ Installer'ın bu sürümü, Windows sürümünüzle uyumlu değildir. Lütfen @@STRING_PRODUCT_NAME@@'in {0} sürümünü indirin ve tekrar deneyin.
+
+STRING_INSTALLER_CANNOT_STOP_AFTER_START = Ne yazık ki, kurulum işlemi başladıktan sonra durdurulamaz. Lütfen tamamlanana kadar bekleyin.
+
+STRING_INVALID_FILE = Geçersiz dosya
+
+STRING_STATUS_INITIAL = Başlangıç Toplayıcı
+
+STRING_ATTACHMENT_SIZE_EXCEEDED = Ek boyutu aşıldı
+
+STRING_UPGRADE_FROM_BS1_CLEAN_OK = Yenisini yükle
+
+STRING_INSTALLATION_ROLLBACK = Geri alma yüklemesi
+
+STRING_LATEST_VERSION = Güncel sürüm kullanıyorsunuz
+
+STRING_ATTACHMENT_COUNT_EXCEEDED = Ek sayısı aşıldı
+
+STRING_CHANGE_FOLDER = Dosyayı değiştir
+
+STRING_CREATE_0_INSTANCE = Bir {0} örneği oluşturulsun mu?
+
+STRING_BACK = Geri
+
+STRING_SOFTWARE_LICENSE = Yazılım lisansı
+
+STRING_SPACE_AVAILABLE = Kullanıma hazır alan
+
+STRING_BLACK_SCREEN = Ekran kararması
+
+STRING_UPGRADE_FROM_BS1_CLEAN_CANCEL = Eskisini sakla
+
+STRING_BLUESTACKS_INSTALLER = @@STRING_PRODUCT_NAME@@ Installer
+
+STRING_LOGCOLLECTOR_DESCRIPTION_WARNING = Açıklama kısmında kullandığınız karakterlerin sayısı, 10 adetten fazla olmalıdır.
+
+STRING_INITIATING_PERFORMANCE_BOOST = Kurulum sonrası adımların tamamlanması
+
+STRING_UNFORTUNATELY_COULDNT_UPGRADE = BlueStacks 5 güncellenemedi.
+
+STRING_HYPERV_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@ Hyper-V devre dışı bırakıldığında başlatılamaz.
+
+STRING_INCOMPATIBLE_INSTALLER = Uyumsuz yükleyici
+
+STRING_UNINSTALL = Kaldır
+
+STRING_ADDITIONAL_FILES_DOWNLOAD_INSTANCE = @@STRING_PRODUCT_NAME@@ zaten yüklü. Bir {0} örneği oluşturmak için birkaç ek dosya indirilecektir.
+
+STRING_PREINSTALL_FAIL = Maalesef, PC'niz @@STRING_PRODUCT_NAME@@ yüklemek için minimum gereksinimleri karşılamıyor.
+
+STRING_UPGRADE_NOW = Şimdi güncelle
+
+STRING_0_OF_1 = {1} / {0}
+
+STRING_SUBMIT_REPORT = Şikayetinizi onaylayın
+
+STRING_OTHER_REASON = Diğer sebepler ve bilgiler, oyun adı vb .
+
+STRING_ENGINE_UNINSTALL = Motoru Kaldırma
+
+STRING_STATUS_SENDING = Sorun Raporu Gönderiliyor
+
+STRING_CONFLICT_WITH_OTHERS = Başka bir yazılımla çatışma
+
+STRING_INSTALLATION_START_WHEN_DOWNLOAD_FINISHES = İndirme işlemi tamamlanır tamamlanmaz kurulum başlayacaktır
+
+STRING_YOUR_EMAIL = E-posta Adresiniz
+
+STRING_BS_CANNOT_INSTALL_64_ON_32 = @@STRING_PRODUCT_NAME@@, Windows 32 bit kullandığınız için Android'in 64 bit sürümünü yükleyemez.
+
+STRING_PRE_INSTALL_CHECKS = Sistem Gereklilikleri Denetleniyor
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION = Eklemeye çalıştığınız dosya bir görüntü değil. Lütfen sorunun bir ekran resmini ekleyip tekrar deneyin.
+
+STRING_CONTINUE_IN_BACKGROUND = @@STRING_PRODUCT_NAME@@'i arka planda indirmeye devam etmek ister misiniz?
+
+STRING_ADMINISTRATIVE_RIGHTS_REQUIRED = Yönetici konumunda olmanız gerekiyor
+
+STRING_PROMPT = Sorun Raporu gönderilemedi. Masaüstünüzde BlueStacksSupport.zip adlı bir dosya oluşturuldu. Lütfen kısa bir açıklama ile birlikte bu dosyayı support@bluestacks.com adresine e-posta ile gönderin.
+
+VERSION = Sürüm
+
+STRING_INSTALL_ENGINE_FAIL = Motor yüklenemiyor
+
+STRING_BST_INSTALLER_ALREADY_RUNNING = Şu anda @@STRING_PRODUCT_NAME@@ yükleyicinin farklı bir örneği çalışıyor
+
+STRING_UPDATE_SETTING = Güncelleme
+
+STRING_EXTRACTING_FILES = Dosyalar Çıkarılıyor
+
+STRING_FREE_DISK_SPACE = Disk temizleme aracı nasıl çalışır?
+
+STRING_INSTALL = Yükleme (Installs) Teklifleri
+
+STRING_ERROR_WHILE_DOWNLOADING_BS = @@STRING_PRODUCT_NAME@@'ı indirmeye çalışırken bir hata oluştu.
+
+STRING_SELECT = Seç
+
+STRING_OLD_INSTALLATION_INTERFERING = @@STRING_PRODUCT_NAME@@'in mevcut kurulumu, yeni sürüme müdahale ediyor gibi görünüyor.
+
+STRING_OUTLINE_ISSUE = Lütfen size nasıl yardımcı olabileceğimizi anlayabilmemiz için sorunu açıklayın.
+
+STRING_FINISH_REPORT_SEND = Sorun raporunuz gönderildi. Bir an önce size geri döneceğiz.
+
+STRING_STATUS_ARCHIVING = Destek Arşivi Oluşturuluyor
+
+STRING_PC_MIN_REQ_UNMET_HOWEVER_PLAY_ON_X = Bilgisayarınız @@STRING_PRODUCT_NAME@@ yüklemek için minimum sistem gereksinimlerini karşılamıyor. Ancak, BlueStacks X kullanarak en sevdiğiniz Android oyunlarını bulutumuzda çevrimiçi olarak oynayabilirsiniz.
+
+STRING_PLAY_ON_CLOUD = Bulutta oyna
+
+STRING_NOT_ENOUGH_SPACE_PLAY_X = @@STRING_PRODUCT_NAME@@, yüklemek için {1} sürücüsünde en az {0} GB boş disk alanı gerektirir. Gerekli disk alanını boşaltabilir ve yeniden deneyebilir veya başka bir sürücüye yükleme yolunu değiştirebilir veya BlueStacks X kullanarak bulutumuzda çevrimiçi oynayabilirsiniz.
+
+STRING_BSX_ON_GL_UNSUPPORTED = Grafik kartınız veya sürücüleri @@STRING_PRODUCT_NAME@@ ile uyumlu değil. Lütfen sürücülerinizi güncelleyin ve yüklemeyi yeniden deneyin. BlueStacks X kullanarak en sevdiğiniz Android oyunlarını bulutumuzda çevrimiçi olarak da oynayabilirsiniz.
+
+
+STRING_PC_MIN_REQ_UNMET = Bilgisayarınız @@STRING_PRODUCT_NAME@@ yüklemek için minimum sistem gereksinimlerini karşılamıyor.
+
+STRING_NOT_ENOUGH_SPACE = @@STRING_PRODUCT_NAME@@, yüklemek için {1} sürücüsünde en az {0} GB boş disk alanı gerektirir. Gerekli disk alanını boşaltabilir ve yeniden deneyebilir veya başka bir sürücüye yüklemek için yolu değiştirebilirsiniz.
+
+STRING_GL_UNSUPPORTED = Grafik kartınız veya sürücüleri @@STRING_PRODUCT_NAME@@ ile uyumlu değil. Lütfen sürücülerinizi güncelleyin ve yüklemeyi yeniden deneyin.
+
+STRING_INTERNET_UNSTABLE = İnternet bağlantınız sabit değil. Lütfen bağlantınızı kontrol edin ve tekrar deneyin.
+
+STRING_CHANGE_PATH = Yolu değiştir
+
+STRING_MIN_REQ_FAILED_0 = Sisteminiz {0} çalıştırmak için minimum gereksinimleri karşılamıyor.
+
+STRING_INSTALL_32BIT = Lütfen @@STRING_PRODUCT_NAME@@ {0} sürümünü yükleyin.
+
+STRING_OTHER = Diğer
+
+STRING_RETRY_BANNER_MESSAGE = Bazı dosyalar ayıklanırken bir hata oluştu. Sorun devam ederse lütfen yardım için tekrar deneyin veya {0}.
+
+STRING_CONTACT_US = Bize Ulaşın
+
+STRING_ABORT = İptal
+
+STRING_ANDROID11 = Android 11
+
+STRING_BACKUP_AND_RESTORE = Yedekleme & Geri Yükleme
+
+STRING_BACKUP_PROGRESS = Yedekleme devam ediyor
+
+STRING_BACKUP_WARNING = İşlem tamamlanana kadar bilgisayarınızı yeniden başlatmayın veya kapatmayın.
+
+STRING_BACKUP_SUCCESSFUL_HEADER = Yedekleme başarılı
+
+STRING_BACKUP_SUCCESSFUL_BODY = Verileriniz başarıyla aşağıdaki klasöre yedeklendi:
+
+STRING_LAUNCH_PLAYER = Başlat: @@STRING_PRODUCT_NAME@@
+
+STRING_CANCEL_BACKUP = Yedekleme iptal edilsin mi?
+
+STRING_CANCEL_BACKUP_INFO = Yedeklemeyi iptal etmek istediğinizden emin misiniz, daha sonra ayarlardan tekrar yapabilirsiniz.
+
+STRING_DONT_CANCEL = İptal etme
+
+STRING_RESTORING_BACKUP = Verileri geri yükleme
+
+STRING_SELECT_BACKUP = Yedeklemeyi seçin
+
+STRING_SELECT_RESTORE = Geri yüklemeyi seçin
+
+STRING_INCORRECT_PATH = Yanlış bir klasör seçildi. Lütfen geri yüklemek istediğiniz doğru yedekleme klasörünü seçin ve tekrar deneyin.
+
+STRING_RESTORE_FAILURE = Geri yükleme başarısız
+
+STRING_RESTORE_FAIL_INFO = Verilerinizi geri yüklerken bir şeyler ters gitti. Lütfen tekrar deneyin.
+
+STRING_COULD_NOT_RESOTRE_INSUFFICIENT_SPACE = Verilerinizi geri yüklemek için en az {0} GB disk alanı gerekir. Lütfen biraz disk alanı boşaltın ve tekrar deneyin.
+
+STRING_BACKUP_FAILED = Yedekleme Başarısız
+
+STRING_BACKUP_FAIL_INFO = Verileriniz yedeklenirken bir şeyler ters gitti. Lütfen tekrar deneyin.
+
+STRING_COULD_NOT_BACKUP_INSUFFICIENT_SPACE = Verilerinizi yedeklemek için en az {0} GB disk alanı gerekir. Lütfen sürücü konumunu değiştirin veya biraz yer açın.
+
+STRING_CHANGE_LOCATION = Konumu değiştir
+
+STRING_RESTORE_SUCCESSFUL_HEADER = Geri yükleme başarılı
+
+STRING_RESTORE_SUCCESSFUL_BODY = Verileriniz başarıyla geri yüklendi.
+
+STRING_UNABLE_TO_INSTALL = Yüklenemiyor
+
+STRING_VALID_CERT_ERROR = Yükleme için gerekli olan temel Windows güncellemeleri kullanılamıyor. Bunu nasıl çözeceğinizi öğrenmek için makaleyi okuyun.
+
+STRING_READ_ARTICLE = Makaleyi okuyunuz
+
+STRING_SELECT_BACKUP_FOLDER = Yedek oluşturmak istediğiniz klasörü seçin.
+
+STRING_BEFORE_YOU_RESTORE = Geri yüklemeden önce
+
+STRING_RESTORE_FAIL_WARNING = Lütfen verilerin eski bir @@STRING_PRODUCT_NAME@@ sürümünün yedeğinden güncel sürüme geri yüklenmesinin başarılı olmayabileceğini unutmayın.
+
+STRING_RESTORE_NOT_PERMITTED = Daha yeni bir yedeğin eski bir @@STRING_PRODUCT_NAME@@ sürümüne geri yüklenmesi desteklenmiyor.
+
+STRING_BACKUP_ERROR_INVALID_PATH_SELECTED = Verileriniz yedeklenirken bir şeyler ters gitti. Farklı bir klasör seçin ve tekrar deneyin.
+
+STRING_BACKUP_UNSUCCESSFUL = Yedekleme Başarısız
+STRING_CONTACT_TECHNICAL_SUPPORT = Sorununuzu çözmek için doğrudan teknik destek ile iletişime geçebilirsiniz.
+
+STRING_PREFER_BS4 = BS4'ü tercih et
+
+STRING_NECESSARY_ACTIONS = BlueStacks gerekli işlemleri gerçekleştirirken lütfen bekleyin
+
+STRING_RESTART_LATER = Sonra yeniden başlat
+
+STRING_PROCESS_COMPLETED = İşlem başarıyla tamamlandı.
+
+STRING_RESTART_FOR_CHANGES = Değişikliklerin etkili olması için bilgisayarınızı yeniden başlatmak ister misiniz?
+
+STRING_UPDATE_WIN7_TITLE = Windows 7'nin en son sürümüne güncelleyin
+
+STRING_UPDATE_WIN7_MESSAGE = Sisteminizin minimum gereksinimleri karşıladığından emin olmak için Windows 7 Service Pack'i kurmalısınız. Ayrıntılı adımlar için makaleyi inceleyin.
