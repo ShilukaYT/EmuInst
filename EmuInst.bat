@@ -27,6 +27,7 @@ Set "Emulator=%EmuInstDir%\Emulator"
 Set "SetupTemp=%Temp%\Setup"
 set "uzip=%Bin%\7za.exe"
 set "wget=%Bin%\wget.exe"
+set "BSTCleaner=%Bin%\BSTCleaner\BSTCleaner.exe"
 Set "BS4_Dir=%ProgramFiles%\BlueStacks"
 Set "BS5_Dir=%ProgramFiles%\BlueStacks_nxt"
 Set "MSI4_Dir=%ProgramFiles%\BlueStacks_msi2"
@@ -141,6 +142,11 @@ goto :AskInstall
 ::Install Emulator
 
 :AskInstall
+cls
+echo %Line%
+echo                                Hieu GL Lite - Emulator Installer
+echo                                      Made by Hieu GL Lite
+echo %line%
 Echo Do you want to install %EmuTitle%?
 Set /p "InstChoice=[1] Yes | [2] No | Enter your choice: "
 
@@ -148,11 +154,7 @@ if %InstChoice%==1 goto :Install
 if %InstChoice%==2 goto :InstEmu
 
 :Install
-cls
-echo %Line%
-echo                                Hieu GL Lite - Emulator Installer
-echo                                      Made by Hieu GL Lite
-echo %line%
+echo.
 echo Downloading file...
 %wget% -p %Download% -q --show-progress https://github.com/ShilukaYT/Emulator-Installer/releases/download/Emulator/%EmuID%.bin
 if exist %Download%\%EmuID%.bin goto :Extract
@@ -169,14 +171,16 @@ if not exist %ProgramFiles%\%oem%\Assets\%EmuID% goto :InstallFail
 if exist %ProgramFiles%\%oem%\Assets\%EmuID% goto :Config
 
 :Config
-reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v DisplayName /f
-reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v DisplayName /t REG_SZ /d "%EmuTitle%"
-reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v EstimatedSize /f
-reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v EstimatedSize /t REG_DWORD /d %SizeKB%
-reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v Publisher /f
-reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v Publisher /t REG_SZ /d "Hieu GL Lite"
-reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v HelpLink /f
-reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v HelpLink /t REG_SZ /d "https://sites.google.com/view/hieugllite"
+echo.
+echo Configuring %EmuTitle%
+reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v DisplayName /f>nul
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v DisplayName /t REG_SZ /d "%EmuTitle%">nul
+reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v EstimatedSize /f>nul
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v EstimatedSize /t REG_DWORD /d %SizeKB%>nul
+reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v Publisher /f>nul
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v Publisher /t REG_SZ /d "Hieu GL Lite">nul
+reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v HelpLink /f>nul
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\%oem% /v HelpLink /t REG_SZ /d "https://sites.google.com/view/hieugllite">nul
 echo.
 Echo Installed successfully!
 echo Do you want to launch?
@@ -187,13 +191,15 @@ if errorlevel 1 goto Cleanup_Launch
 
 :Cleanup_Launch
 echo Cleaning Up...
-call :Cleanup
+rd /s /q %Temp%
+rd /s /q %Download%
 Start %ProgramFiles%\%oem%\HD-Player.exe --instance %OS%
 goto :InstEmu
 
 :Finish
 echo Cleaning Up...
-call :Cleanup
+rd /s /q %Temp%
+rd /s /q %Download%
 goto :InstEmu
 
 
@@ -201,7 +207,8 @@ goto :InstEmu
 Echo Installation failed, please check your hardware or software
 echo If you use Hyper-V, please disable it in Windows Features
 Echo (Windows + S, type Windows Features and press Enter)
-call :cleanup
+rd /s /q %Temp%
+rd /s /q %Download%
 Echo Press any key to back!
 pause>nul
 goto :InstEmu
@@ -242,26 +249,51 @@ echo %line%
 choice /c:1234X /n /m "Enter your choice: "
 
 if errorlevel 5 goto :Home
-if errorlevel 4 
-if errorlevel 3 
-if errorlevel 2 
-if errorlevel 1
+if errorlevel 4 goto :SetVariables_MSI4
+if errorlevel 3 goto :SetVariables_Blue4
+if errorlevel 2 goto :SetVariables_MSI5
+if errorlevel 1 goto :SetVariables_Blue5
 
 :SetVariables_Blue5
 Set "EmuTitle=BlueStacks 5"
 Set "oem= nxt"
+goto :AskUninstall
 
 :SetVariables_Blue4
 Set "EmuTitle=BlueStacks 4"
 Set "oem= bgp"
+goto :AskUninstall
 
 :SetVariables_MSI5
 Set "EmuTitle=MSI App Player 5"
 set "oem= msi5"
+goto :AskUninstall
 
 :SetVariables_MSI4
 Set "EmuTitle=MSI App Player 4"
 set "oem= msi2"
+goto :AskUninstall
+
+::Uninstall Emulator
+
+:AskUninstall
+cls
+echo %Line%
+echo                                Hieu GL Lite - Emulator Installer
+echo                                      Made by Hieu GL Lite
+echo %line%
+Echo Do you want to uninstall %EmuTitle%?
+Set /p "UninstChoice=[1] Yes | [2] No | Enter your choice: "
+
+if %UninstChoice%==1 goto :Uninstall
+if %UninstChoice%==2 goto :UnisEmu
+
+:Uninstall
+echo.
+Echo Uninstalling %EmuTitle%
+%BSTCleaner% -oem%oem%
+goto UnisEmu
+
 
 :RedirectYoutube
 cls
@@ -278,11 +310,9 @@ cls
 start https://sites.google.com/view/hieugllite
 goto :Home
 
-:Cleanup
-rd /s /q %Temp%
-rd /s /q %Download%
 
 :exit
-call :Cleanup
+rd /s /q %Temp%
+rd /s /q %Download%
 del /s /q %EmuInstDir%\EmuInst.bat
 exit /b
