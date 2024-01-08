@@ -14,6 +14,7 @@ set "EmuID=%1"
 set "oem=%2"
 set "OS=%3"
 set "EmuTitle=%4"
+set "SizeKB=%5"
 
 if exist %Download%\%EmuID%.bin goto :Start
 if not exist %Download%\%EmuID%.bin goto :404
