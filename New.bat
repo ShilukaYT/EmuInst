@@ -14,26 +14,18 @@ cd /d %~dp0
 
 :: Set variables
 Set "EmuInstDir=%ProgramData%\HieuGLLite"
-Set "Dism=%SystemRoot%\System32\dism.exe"
 Set "Bin=%EmuInstDir%\Bin"
 Set "Temp=%EmuInstDir%\Temp"
 Set "Download=%EmuInstDir%\Download"
 Set "Emulator=%EmuInstDir%\Emulator"
-Set "SetupTemp=%Temp%\Setup"
-set "uzip=%Bin%\7za.exe"
 set "DL=%Bin%\Download.exe"
+set "Inst=%Bin%\Install.exe"
 set "BSTCleaner=%Bin%\BSTCleaner\BSTCleaner.exe"
-Set "BS4_Dir=%ProgramFiles%\BlueStacks"
-Set "BS5_Dir=%ProgramFiles%\BlueStacks_nxt"
-Set "MSI4_Dir=%ProgramFiles%\BlueStacks_msi2"
-Set "MSI5_Dir=%ProgramFiles%\BlueStacks_msi5"
 
 :Title
 echo.
-echo Emulator Installer
+echo Hieu GL Lite - Emulator Installer
 Echo Version: 1.0
-echo.
-echo Made by Hieu GL Lite
 echo.
 
 
@@ -47,8 +39,6 @@ if %2==383100 goto :383100
 if %2==257647 goto :257647
 
 :Prepare
-if not exist %EmuInstDir% md %EmuInstDir%
-if not exist %Bin% md %Bin%
 if not exist %Temp% md %Temp%
 if not exist %Download% md %Download%
 if not exist %Emulator% md %Emulator%
@@ -85,48 +75,14 @@ if %InstChoice%==2 goto :Quit
 :Install
 echo.
 %DL% %Download% %EmuID%
+if exist %Download%\%EmuID%.bin goto :next
+if not exist %Download%\%EmuID%.bin goto :Quit
 
+:next
+%Inst% %EmuID% %oem% %OS% %EmuTitle% %SizeKB%
+if not exist %ProgramFiles%\%oem%\Assets\%EmuID% goto :Quit
+if exist %ProgramFiles%\%oem%\Assets\%EmuID% goto :open
 
-
-::UI of Uninstall Emulator
-:UnisEmu
-cls
-echo %Line%
-echo                                Hieu GL Lite - Emulator Installer
-echo                                      Made by Hieu GL Lite
-echo %line%
-echo Please select the emulator you want to uninstall!
-echo.
-echo [1] BlueStacks 5
-echo [2] MSI App Player 5
-echo [3] BlueStacks 4
-echo [4] MSI App Player 4
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo %line%
-echo [X] Return
-echo %line%
-choice /c:1234X /n /m "Enter your choice: "
-
-if errorlevel 5 goto :Home
-if errorlevel 4 goto :SetVariables_MSI4
-if errorlevel 3 goto :SetVariables_Blue4
-if errorlevel 2 goto :SetVariables_MSI5
-if errorlevel 1 goto :SetVariables_Blue5
 
 :SetVariables_Blue5
 Set "EmuTitle=BlueStacks 5"
@@ -179,10 +135,13 @@ cls
 start https://sites.google.com/view/hieugllite
 goto :Home
 
+:open
+start "%ProgramFiles%\%oem%\HD-Player.exe" --instance "%OS%"
+
+:MissFiles
+echo Missing files detected, please reinstall!
+
 :exit
 rd /s /q %Temp%
-rd /s /q %Download%
-del /s /q %EmuInstDir%\EmuInst.bat
-exit /b
 
 :Quit

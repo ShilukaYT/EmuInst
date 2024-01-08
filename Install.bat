@@ -48,25 +48,16 @@ Echo Installed successfully!
 echo Do you want to launch?
 choice /c:12 /n /m "[1] Yes | [2] No | Enter your choice: "
 
-if errorlevel 2 goto Finish
+if errorlevel 2 goto :Quit
 if errorlevel 1 goto Cleanup_Launch
 
 :Cleanup_Launch
-echo Cleaning Up...
-rd /s /q %Temp%
 Start %ProgramFiles%\%oem%\HD-Player.exe --instance %OS%
-goto :Quit
-
-:Finish
-echo Cleaning Up...
-rd /s /q %Temp%
 goto :Quit
 
 
 :InstallFail
 Echo Installation failed, please check your hardware or software
-rd /s /q %Temp%
-Echo Press any key to back!
 pause>nul
 goto :Quit
 
