@@ -1,8 +1,30 @@
 @echo off
+::Prepare vartiable
+
+Set "EmuInstDir=%ProgramData%\HieuGLLite"
+Set "Download=%EmuInstDir%\Download"
+Set "Bin=%EmuInstDir%\Bin"
+Set "Emulator=%EmuInstDir%\Emulator"
+Set "SetupTemp=%Temp%\Setup"
+set "uzip=%Bin%\7za.exe"
+Set "Temp=%EmuInstDir%\Temp"
+set "Pass1=HieuGLLite_EmuInst"
+
+set "EmuID=%1"
+set "oem=%2"
+set "OS=%3"
+set "EmuTitle=%4"
+
+if exist %Download%\%EmuID%.bin goto :Start
+if not exist %Download%\%EmuID%.bin goto :404
+
+
+:Start
+
 echo Extracting files...
 md %SetupTemp%
-%uzip% x %Download%\%EmuID%.bin -o%Temp% -p"HieuGLLite_EmuInst" -aoa>nul
-%uzip% x %Temp%\Setup.7z -o%SetupTemp% -p"HieuGLLite_EmuInst" -aoa>nul
+%uzip% x %Download%\%EmuID%.bin -o%Temp% -p"%Pass1%" -aoa>nul
+%uzip% x %Temp%\Setup.7z -o%SetupTemp% -p"%Pass1%" -aoa>nul
 Echo Installing %EmuTitle%
 %SetupTemp%\BlueStacksInstaller.exe -s -PDDir=%Emulator%\%oem% -DefaultImageName=%OS% -ImageToLaunch=%OS% -parentpath=%Temp%\Setup.7z
 
@@ -31,21 +53,25 @@ if errorlevel 1 goto Cleanup_Launch
 :Cleanup_Launch
 echo Cleaning Up...
 rd /s /q %Temp%
-rd /s /q %Download%
 Start %ProgramFiles%\%oem%\HD-Player.exe --instance %OS%
-goto :InstEmu
+goto :Quit
 
 :Finish
 echo Cleaning Up...
 rd /s /q %Temp%
-rd /s /q %Download%
-goto :InstEmu
+goto :Quit
 
 
 :InstallFail
 Echo Installation failed, please check your hardware or software
 rd /s /q %Temp%
-rd /s /q %Download%
 Echo Press any key to back!
 pause>nul
-goto :InstEmu
+goto :Quit
+
+:404
+echo Installation failed!
+echo The requested file was not found
+goto :Quit
+
+:Quit
