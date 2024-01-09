@@ -13,6 +13,8 @@
 cd /d %~dp0
 
 :: Set variables
+set "ver=1.0"
+
 Set "EmuInstDir=%ProgramData%\HieuGLLite"
 Set "Bin=%EmuInstDir%\Bin"
 Set "Temp=%EmuInstDir%\Temp"
@@ -24,19 +26,15 @@ set "BSTCleaner=%Bin%\BSTCleaner\BSTCleaner.exe"
 
 :Title
 echo.
-echo Hieu GL Lite - Emulator Installer
-Echo Version: 1.0
+echo Hieu GL Lite EmuInst Helper
+Echo Version: %ver%
 echo.
 
 
 ::Check arg
-if %1==install goto :Install
 
-
-
-:Install
-if %2==383100 goto :383100
-if %2==257647 goto :257647
+if %1==383100 goto :383100
+if %1==257647 goto :257647
 
 :Prepare
 if not exist %Temp% md %Temp%
@@ -49,7 +47,7 @@ if not exist %Bin%\7za.exe goto :MissFiles
 Set "EmuTitle=MSI Lite v5.11"
 Set "EmuID=383100"
 Set "oem=BlueStacks_msi5"
-set "EmuName=Blue5"
+set "EmuType=Blue5"
 set "OS=Nougat32"
 Set "SizeKB=2384896"
 goto :AskInstall
@@ -58,7 +56,7 @@ goto :AskInstall
 Set "EmuTitle=BlueStacks 5.13.0 Lite"
 Set "EmuID=257647"
 Set "oem=BlueStacks_nxt"
-set "EmuName=Blue5"
+set "EmuType=Blue5"
 set "OS=Nougat32"
 Set "SizeKB=2520023"
 goto :AskInstall
@@ -80,29 +78,9 @@ if not exist %Download%\%EmuID%.bin goto :Quit
 
 :next
 %Inst% %EmuID% %oem% %OS% %EmuTitle% %SizeKB%
-if not exist %ProgramFiles%\%oem%\Assets\%EmuID% goto :Quit
+if not exist %ProgramFiles%\%oem%\Assets\%EmuID% goto :exit
 if exist %ProgramFiles%\%oem%\Assets\%EmuID% goto :open
 
-
-:SetVariables_Blue5
-Set "EmuTitle=BlueStacks 5"
-Set "oem= nxt"
-goto :AskUninstall
-
-:SetVariables_Blue4
-Set "EmuTitle=BlueStacks 4"
-Set "oem= bgp"
-goto :AskUninstall
-
-:SetVariables_MSI5
-Set "EmuTitle=MSI App Player 5"
-set "oem= msi5"
-goto :AskUninstall
-
-:SetVariables_MSI4
-Set "EmuTitle=MSI App Player 4"
-set "oem= msi2"
-goto :AskUninstall
 
 ::Uninstall Emulator
 
@@ -119,27 +97,12 @@ Echo Uninstalling %EmuTitle%
 %BSTCleaner% -oem%oem%
 goto UnisEmu
 
-
-:RedirectYoutube
-cls
-start https://youtube.com/@HieuGLLite
-goto :Home
-
-:RedirectFacebook
-cls
-start https://facebook.com/hieugllite
-goto :Home
-
-:RedirectWebsite
-cls
-start https://sites.google.com/view/hieugllite
-goto :Home
+:MissFiles
+echo Missing files detected, please reinstall!
 
 :open
 start "%ProgramFiles%\%oem%\HD-Player.exe" --instance "%OS%"
 
-:MissFiles
-echo Missing files detected, please reinstall!
 
 :exit
 rd /s /q %Temp%
