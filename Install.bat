@@ -16,6 +16,9 @@ set "OS=%3"
 set "EmuTitle=%4"
 set "SizeKB=%5"
 
+Echo Hieu GL Lite Installer Helper
+Echo Version: 1.0
+
 if exist %Download%\%EmuID%.bin goto :Start
 if not exist %Download%\%EmuID%.bin goto :404
 
