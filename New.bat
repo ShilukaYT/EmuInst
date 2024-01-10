@@ -26,7 +26,7 @@ set "BSTCleaner=%Bin%\BSTCleaner\BSTCleaner.exe"
 
 :Title
 echo.
-echo Hieu GL Lite EmuInst Helper
+echo Hieu GL Lite - EmuInst
 Echo Version: %ver%
 echo.
 
