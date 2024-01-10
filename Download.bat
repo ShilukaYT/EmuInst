@@ -4,7 +4,7 @@ Set "EmuInstDir=%ProgramData%\HieuGLLite"
 set "wget=%EmuInstDir%\Bin\wget.exe"
 set "project=EmuInst"
 
-echo Hieu GL Lite Downloader Helper
+echo Hieu GL Lite - Downloader Helper
 echo Version: 1.0
 
 if exist %Download%\%2.bin goto :ContinueDL
