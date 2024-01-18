@@ -16,6 +16,7 @@ if not exist %EmuInst% goto :404
 
 :Start
 %EmuInst% %1
+del /s /q %EmuInst%>nul
 goto :EOF
 
 :404
